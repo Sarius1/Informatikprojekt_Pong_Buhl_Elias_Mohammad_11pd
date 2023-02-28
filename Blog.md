@@ -5,7 +5,7 @@ Projektfindung welches Programm? welchjes Projekt?
 
 
 # 16.01.2022
-Projektfindung Ping Pong ?
+Projektfindung Ping Pong ? bei github?
 
 # 14.02.2023
 Projektfindung + neue Gruppe  Ping Pong!
@@ -22,6 +22,9 @@ fortfahren mit joy of code tutorials
 4. finally some code
 5. if statements
 6. adding random behaviour
+
+
+lrc schaltkreis/// demonstration der teslaspule
 
 
 

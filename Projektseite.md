@@ -5,8 +5,8 @@
 
 # Inhalt
 
-1. Einleitung
-2. Github
+* 1. Einleitung
+* 2. Github
 3. Pong
 4. Projektentwicklung
 5. Vorstellung des Projekts

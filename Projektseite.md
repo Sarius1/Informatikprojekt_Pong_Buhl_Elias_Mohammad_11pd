@@ -5,19 +5,23 @@
 
 # Inhalt
 
-1. Einleitung
-2. Github
-3. Pong
-4. Projektentwicklung
-5. Vorstellung des Projekts
-6. Der Code
-7. Kritik
-8. Fazit/Aussicht für die Zukunft
-9. Quellen
-10. Eigenständigkeitserklärung
+<p><a href="#kapitell">1. Einleitung</a></p>
+<p><a href="#kapitell">2. Github</a></p>
+<p><a href="#kapitell">3. Pong</a></p>
+<p><a href="#kapitell">4. Projektentwicklung</a></p>
+<p><a href="#kapitell">5. Vorstellung des Projekts</a></p>
+<p><a href="#kapitell">6. Der Code</a></p>
+<p><a href="#kapitell">7. Kritik</a></p>
+<p><a href="#kapitell">8. Fazit/Aussicht für die Zukunft</a></p>
+<p><a href="#kapitell">9. Quellen</a></p>
+<p><a href="#kapitell">10. Eigenständigkeitserklärung</a></p>
 
 
-# Einleitung
+
+
+
+<h2 id="kapitell">1. Einleitung</h2>
+
 Videospiele: FPS, Killstreaks Ping. Um heutzutage zu spielen braucht man einen Leistungsstarken PC mit sehr teuren Komponenten. Viele können sich dies nicht Leisten und sehen nicht den Sinn bei einer Investition von 1000 € bis 2000€, nur um in deren Freizeit beim Spielen ein wenig zu entspannen. Alte Spiele wie Flappy Bird, Tetris und PAC-Man sind Spiele die jeder kennt und liebt. Sie sind aus den 80ern und geben jedem Gamer einen Nostalgieschub. Diese spiele haben schlechte Graphiken, weshalb diese Spiel von jedem gespielt werden können. Warum also nicht ein Spiel programmieren, welchen den breiten Massen zur verfügung steht, es also viele Abnehmer gibt und zusätzlich noch einfach.
 
 # Github

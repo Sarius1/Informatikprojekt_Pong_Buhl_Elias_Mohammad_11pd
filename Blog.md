@@ -16,8 +16,11 @@ Heute haben wir die Einführung in Greenfoot mit Tutorials gestartet. Dazu haben
  https://www.greenfoot.org/doc/joy-of-code
  Wir haben uns heute mit folgenden Lerneinheiten beschäftigt
 * Introduction
+  * TEXT 
 * Installing Greenfoot
+  * TEXT 
 * Classes and Objects
+  * TEXT 
 
 # 28.02.2023
 

@@ -49,7 +49,7 @@ Pong ähnelt stark dem Sport Tischtennis oder Tennis. Es gibt zwei Spieler die j
 
 
 # Projektentwicklung
-
+Nach dem Programmieren in anderen Gruppenkonstallationen war uns schnell klar, dass wir nun
 
 # Vorstellung des Projekts
 

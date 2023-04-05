@@ -37,9 +37,10 @@ lrc schaltkreis/// demonstration der teslaspule
 # 05.03.2023
 * Programmieren mit joycode
 *  It's done: Play the Game! (keyboard control) (with teacher commentary)
- *  Make it Your Own (changing images)
- *  Fun with Sound
- *  The Structure of a Class
+*  Make it Your Own (changing images)
+*  Fun with Sound
+   *  sheaklnhg aebgohuaergfbARG
+*  The Structure of a Class
 *   A First Look at Variables
 # 10.03.2023
 * Programmieren mit joycode

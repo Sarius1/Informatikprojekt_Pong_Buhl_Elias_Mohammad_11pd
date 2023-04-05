@@ -16,23 +16,27 @@ Heute haben wir die Einführung in Greenfoot mit Tutorials gestartet. Dazu haben
  https://www.greenfoot.org/doc/joy-of-code
  Wir haben uns heute mit folgenden Lerneinheiten beschäftigt
 * Introduction
-  * TEXT 
+  * Bei der Einleitung wurde noch nicht gecodet. es wurde lediglich gezeigt, was man alles so mit Greenfoot machen kann. es wurde auch gezeigt, wie man Greenfoot richtig installiert etc. Dies war für uns relativ irrelevant, da Greenfoot bereits installiert war. Daher konnten wir große Teile des Videos skippen.
 * Installing Greenfoot
-  * TEXT 
+  * bei dieser Einheit ging es wieder nur um die Installation, weshalb wir die schnell übersprungen haben
 * Classes and Objects
-  * TEXT 
+  * Bei dieser Einheit wurde die Umgebung erläutert. Es wurde gezeigt wie man Szenarios öffnet und eine Idee in einen Code umwandelt. Aber auch wie man den Code "zerteilt um Übersicht zu schaffen. Dies wurde anhand eines bereits existierenden Szenarios gezeigt, wo man Igel fortbewegen konnte auf dem Bildschirm, welche Äpfel aßen.
 
 # 28.02.2023
 
 fortfahren mit joy of code tutorials
 *  finally some code
-   *  TEXT
+   *  Heute ging es endlich mit dem Coden los. Zuerst haben wir ein Szenario erstellt und dieses in verschiedene Klassen unterteilt. ![image](https://user-images.githubusercontent.com/111464150/230055811-d8db0b0d-7aba-4363-80b1-53399abb2b79.png)  Im noch relativ simplen Code haben wir ein Void erstellt, wo eine Schildkröte platziert wurde. Des weiteren haben wir der Schildkröte eine Bewegung zugewiesen wie move(1). Wenn man noch turn(1) hinzufügt bewegt sich die Schildkröte im Kreis. Jedoch muss man die Schildkröten noch manuell hinzufügen und erscheinen nicht automatisch
 *  if statements
-   *  TEXT
-*  6. adding random behaviour
-   * TEXT
-
-lrc schaltkreis/// demonstration der teslaspule
+   *  Um in das Thema der Bedinungen einzuleiten wurde das Problem mit der worldEdge gezeigt. Wenn sich eine Schildkröte nämlich dem Ende der Welt nähert stoppt diese einfach nur. Dies will man ändern, sodass unter der Bedinung, dass die Schildkröte die Weltgrenze berührt ein Ereignis eintritt.![image](https://user-images.githubusercontent.com/111464150/230057899-cf303028-b0dc-450a-b0e2-2ef2c81feacf.png)
+So hat man bei if-statements immer einer condition, auf die ein statement immer antwortet, falls diese erfüllt ist. Wir haben programmiert, dass wenn sich eine Schildkröte der worldedge nähert, diese sich um eine bestimmte Gradzahl dreht und so nicht stoppt.
+*  adding random behaviour
+   *  Bei random behaviour wurde uns gezeigt, wie man ein random Bewegungen im Code einfügt. Diese sind nämlich nicht wirklich random sondern mathematisch ausgerechnet. So kann eine Schildkröte eine 10% Wahrscheinlichkeit haben sich umzudrehen. Dafür braucht man einen neuen Code nämlich 
+  <p> (getRandomNumber(...) <...) <p>
+ Wenn man einsetzt
+<p> (getRandomNumber(100) < 10) <p>
+ ist nun eine 10% wahrscheinlichkeit für ein Ereignis angegeben. Dies ist für die meisten Videospiele ganz interessant um sogeannte NPCs oder Bots zu programmieren.
+ Da wir heute auch anwesend waren hat Herr Buhl uns eine Teslaspule für das Projekt einer anderen Gruppe gezeigt sowie einen LRC- Schaltkreis.
 
 # 01.03.2023
 * Programmieren mit joycode

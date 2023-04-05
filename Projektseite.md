@@ -18,7 +18,7 @@
 
 
 # Einleitung
-
+Videospiele: FPS, Killstreaks Ping. Um heutzutage zu spielen braucht man einen Leistungsstarken PC mit sehr teuren Komponenten. Viele können sich dies nicht Leisten und sehen nicht den Sinn bei einer Investition von 1000 € bis 2000€, nur um in deren Freizeit beim Spielen ein wenig zu entspannen. Alte Spiele wie Flappy Bird, Tetris und PAC-Man sind Spiele die jeder kennt und liebt. Sie sind aus den 80ern und geben jedem Gamer einen Nostalgieschub. Diese spiele haben schlechte Graphiken, weshalb diese Spiel von jedem gespielt werden können. Warum also nicht ein Spiel programmieren, welchen den breiten Massen zur verfügung steht, es also viele Abnehmer gibt und zusätzlich noch einfach.
 
 # Github
 

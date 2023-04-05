@@ -26,5 +26,22 @@ fortfahren mit joy of code tutorials
 
 lrc schaltkreis/// demonstration der teslaspule
 
+# 01.03.2023
+* Programmieren mit joycode
+# 05.03.2023
+* Programmieren mit joycode
+# 10.03.2023
+* Programmieren mit joycode
+# 15.03.2023
+* Coden von Pong
+# 20.03.2023
+* Coden von Pong
+# 25.03.2023
+* Coden von Pong
+# 30.03.2023
+* Coden von Pong
+# 05.04.2023
+Seminartag
+erstellen der Projektseite
 
 

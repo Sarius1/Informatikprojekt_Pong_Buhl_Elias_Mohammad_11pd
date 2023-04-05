@@ -5,12 +5,12 @@
 
 
 
-Einleitung
-StarlogoTNG
-Projektentwicklung
-Vorstellung des Projekts
-Der Code
-Kritik
-Fazit/Aussicht für die Zukunft
-Quellen
-Eigenständigkeitserklärung
+1. Einleitung
+2. Github
+3. Projektentwicklung
+4. Vorstellung des Projekts
+5. Der Code
+6. Kritik
+7. Fazit/Aussicht für die Zukunft
+8. Quellen
+9. Eigenständigkeitserklärung

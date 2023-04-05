@@ -1,4 +1,5 @@
-# Informatikprojekt_Pong_Buhl_Elias_Mohammad_11p
+# Pong
+
 Herlich Willkommen zu Pong!, unserem diesjärigen Informatikprojekt. Die untenstehenden Links führen dich zu unserem Blog und unserer Projektseite.
 
 

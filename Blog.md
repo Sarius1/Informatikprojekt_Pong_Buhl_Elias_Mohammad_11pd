@@ -24,7 +24,7 @@ Heute haben wir die Einführung in Greenfoot mit Tutorials gestartet. Dazu haben
 
 # 28.02.2023
 
-fortfahren mit joy of code tutorials
+Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  finally some code
    *  Heute ging es endlich mit dem Coden los. Zuerst haben wir ein Szenario erstellt und dieses in verschiedene Klassen unterteilt. ![image](https://user-images.githubusercontent.com/111464150/230055811-d8db0b0d-7aba-4363-80b1-53399abb2b79.png)  Im noch relativ simplen Code haben wir ein Void erstellt, wo eine Schildkröte platziert wurde. Des weiteren haben wir der Schildkröte eine Bewegung zugewiesen wie move(1). Wenn man noch turn(1) hinzufügt bewegt sich die Schildkröte im Kreis. Jedoch muss man die Schildkröten noch manuell hinzufügen und erscheinen nicht automatisch
 *  if statements
@@ -39,7 +39,8 @@ So hat man bei if-statements immer einer condition, auf die ein statement immer 
  Da wir heute auch anwesend waren hat Herr Buhl uns eine Teslaspule für das Projekt einer anderen Gruppe gezeigt sowie einen LRC- Schaltkreis.
 
 # 01.03.2023
-
+ 
+Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  Lettuce is Good for You! (collision detection)
    * Heute haben wir neben den Schildkröten noch den Salat als Schauspieler hinzugefügt. Dieser Salat hat keine funktion, bis auf die Tatsache, dass die Schildkröte mit ihm interagieren kann. Die Schildkröte kann nämlich, während sie über ihn rüberkrabbelt, ihn essen. Dafür braucht man nur eine if Funktion, welche sagt, dass wenn eine Schildkröte über einen Salat krabbelt sie ih isst und der Salat verschwindet. Des weiteren wurde gezeigt, wie man ein Layout speichert, sodass man nicht immer wieder neu die Schauspiueler(Actors rüberziehen muss.
 *   Keeping your Code Clean
@@ -65,7 +66,8 @@ So hat man bei if-statements immer einer condition, auf die ein statement immer 
 *   Bouncy Balls with Mouse Input
     * TEXT   
 # 15.03.2023
-* Coden von Pong
+ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
+* 
   * TEXT 
 * Paddles movement
   * TEXT

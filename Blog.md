@@ -39,15 +39,13 @@ So hat man bei if-statements immer einer condition, auf die ein statement immer 
  Da wir heute auch anwesend waren hat Herr Buhl uns eine Teslaspule für das Projekt einer anderen Gruppe gezeigt sowie einen LRC- Schaltkreis.
 
 # 01.03.2023
-* Programmieren mit joycode
-  * TEXT  
+
 *  Lettuce is Good for You! (collision detection)
-   * TEXT 
+   * Heute haben wir neben den Schildkröten noch den Salat als Schauspieler hinzugefügt. Dieser Salat hat keine funktion, bis auf die Tatsache, dass die Schildkröte mit ihm interagieren kann. Die Schildkröte kann nämlich, während sie über ihn rüberkrabbelt, ihn essen. Dafür braucht man nur eine if Funktion, welche sagt, dass wenn eine Schildkröte über einen Salat krabbelt sie ih isst und der Salat verschwindet. Des weiteren wurde gezeigt, wie man ein Layout speichert, sodass man nicht immer wieder neu die Schauspiueler(Actors rüberziehen muss.
 *   Keeping your Code Clean
-    * TEXT   
+    * Wie der Titel bereits besagt, wurde gezeigt wie man seinen Code geordnet hält. Dies ist wichtig, da der Quellcode mit der Zeit immer länger wird. Um nicht den Überblick zu verlieren und Fehler zu vermeiden kann man dies auf verschiedene Art und Weise vorbeugen. Man kann bspw.Leere Zeilen einbauen.   
 *   Snakes on a Plane!
 # 05.03.2023
-* Programmieren mit joycode
 *  It's done: Play the Game! (keyboard control) (with teacher commentary)
 *  Make it Your Own (changing images)
 *  Fun with Sound
@@ -57,8 +55,7 @@ So hat man bei if-statements immer einer condition, auf die ein statement immer 
 *   A First Look at Variables
     * TEXT
 # 10.03.2023
-* Programmieren mit joycode
-  * TEXT 
+
 * Object Interaction (first encounter)
   * TEXT 
 *   Adding a Score Counter

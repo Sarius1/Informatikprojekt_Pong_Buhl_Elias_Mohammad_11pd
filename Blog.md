@@ -46,7 +46,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *   Keeping your Code Clean
     * Wie der Titel bereits besagt, wurde gezeigt wie man seinen Code geordnet hält. Dies ist wichtig, da der Quellcode mit der Zeit immer länger wird. Um nicht den Überblick zu verlieren und Fehler zu vermeiden kann man dies auf verschiedene Art und Weise vorbeugen. Man kann bspw.Leere Zeilen einbauen.   
 *   Snakes on a Plane!
-# 05.03.2023
+# 03.03.2023
 *  It's done: Play the Game! (keyboard control) (with teacher commentary)
 *  Make it Your Own (changing images)
 *  Fun with Sound
@@ -55,7 +55,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
    *  TEXT
 *   A First Look at Variables
     * TEXT
-# 10.03.2023
+# 06.03.2023
 
 * Object Interaction (first encounter)
   * TEXT 
@@ -65,7 +65,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
     * TEXT   
 *   Bouncy Balls with Mouse Input
     * TEXT   
-# 15.03.2023
+# 09.03.2023
  Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 * 
   * TEXT 
@@ -92,5 +92,6 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 # 05.04.2023
 Seminartag
 erstellen der Projektseite
+ Score erstellen mit hilfe von herr buhl.
 
 

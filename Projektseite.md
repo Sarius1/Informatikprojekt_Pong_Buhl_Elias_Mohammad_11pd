@@ -5,8 +5,8 @@
 
 # Inhalt
 
-* 1. Einleitung
-* 2. Github
+1. Einleitung
+2. Github
 3. Pong
 4. Projektentwicklung
 5. Vorstellung des Projekts
@@ -24,6 +24,24 @@ Videospiele: FPS, Killstreaks Ping. Um heutzutage zu spielen braucht man einen L
 
 
 # Pong
+Das Spiel Pong wurde bereits 1972 von Atari Inc veröffentlicht.
+<details>
+   <details>
+  <summary>Erster Pong-Automat   </summary>
+  
+
+  ![image](https://user-images.githubusercontent.com/111464150/230014140-97432592-a5e8-46b4-992d-f544ef88e560.png)
+</details>
+<details>
+ Atari ist ein US-Amerikanischer Spielehersteller aus den 80er-Jahren und hat neben Pong auch viele andere Spiele sowie Konsolen hergestellt. Pong gilt als einer der Urväter der Videospiele, da es weltbekannt und hat die Videospielindustrie zu der Zeit revolutioniert. Es hat mit seiner "Simplicity" Millionen Spieler in Arcades überzeugt.
+ <details>
+  <summary>Atari-Logo   </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/230013009-2e52e084-95e3-4b6a-9263-ada063f1579a.png)
+</details>
+Pong ähnelt stark dem Sport Tischtennis oder Tennis. Es gibt zwei Spieler die jeweils ein Paddle bedienen. In der Mitte des Spielfeldes erscheint ein Ball und fliegt auf eine der beiden Seiten zu. Der Spieler muss verhindern, dass der Ball an ihm vorbeifliegt, sondern muss ihn blocken. Falls er dies nicht verhindert, bekommt der andere Spieler einen Punkt.
+
 
 
 # Projektentwicklung
@@ -42,7 +60,7 @@ Videospiele: FPS, Killstreaks Ping. Um heutzutage zu spielen braucht man einen L
 
 
 # Quellen 
-
+https://de.wikipedia.org/wiki/Pong
 
 # Eigenständigkeitserklärung
 

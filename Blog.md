@@ -28,18 +28,27 @@ lrc schaltkreis/// demonstration der teslaspule
 
 # 01.03.2023
 * Programmieren mit joycode
+* 
 # 05.03.2023
 * Programmieren mit joycode
+* 
 # 10.03.2023
 * Programmieren mit joycode
+* 
 # 15.03.2023
 * Coden von Pong
+* Paddles movement
 # 20.03.2023
 * Coden von Pong
+* Paddle funktion
 # 25.03.2023
 * Coden von Pong
+*  Ball movement
 # 30.03.2023
 * Coden von Pong
+* Score
+# 02.04.2023
+* Score
 # 05.04.2023
 Seminartag
 erstellen der Projektseite

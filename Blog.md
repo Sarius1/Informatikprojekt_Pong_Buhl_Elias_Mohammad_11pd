@@ -22,46 +22,67 @@ Heute haben wir die Einführung in Greenfoot mit Tutorials gestartet. Dazu haben
 # 28.02.2023
 
 fortfahren mit joy of code tutorials
-*  4. finally some code
-*  5. if statements
+*  finally some code
+   *  TEXT
+*  if statements
+   *  TEXT
 *  6. adding random behaviour
-
+   * TEXT
 
 lrc schaltkreis/// demonstration der teslaspule
 
 # 01.03.2023
 * Programmieren mit joycode
+  * TEXT  
 *  Lettuce is Good for You! (collision detection)
+   * TEXT 
 *   Keeping your Code Clean
+    * TEXT   
 *   Snakes on a Plane!
 # 05.03.2023
 * Programmieren mit joycode
 *  It's done: Play the Game! (keyboard control) (with teacher commentary)
 *  Make it Your Own (changing images)
 *  Fun with Sound
-   *  sheaklnhg aebgohuaergfbARG
+   *  TEXT
 *  The Structure of a Class
+   *  TEXT
 *   A First Look at Variables
+    * TEXT
 # 10.03.2023
 * Programmieren mit joycode
+  * TEXT 
 * Object Interaction (first encounter)
+  * TEXT 
 *   Adding a Score Counter
+    * TEXT   
 *   Bouncy Coloured Balls
+    * TEXT   
 *   Bouncy Balls with Mouse Input
+    * TEXT   
 # 15.03.2023
 * Coden von Pong
+  * TEXT 
 * Paddles movement
+  * TEXT
 # 20.03.2023
 * Coden von Pong
+  * TEXT 
 * Paddle funktion
+   TEXT* 
 # 25.03.2023
 * Coden von Pong
+  * TEXT 
 *  Ball movement
+   * TEXT  
 # 30.03.2023
 * Coden von Pong
+  * TEXT 
 * Score
+  * TEXT 
 # 02.04.2023
 * Score
+  * TEXT 
 # 05.04.2023
 Seminartag
 erstellen der Projektseite

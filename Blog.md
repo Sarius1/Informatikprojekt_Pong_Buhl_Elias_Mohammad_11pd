@@ -69,7 +69,7 @@ lrc schaltkreis/// demonstration der teslaspule
 * Coden von Pong
   * TEXT 
 * Paddle funktion
-   TEXT* 
+  * TEXT 
 # 25.03.2023
 * Coden von Pong
   * TEXT 

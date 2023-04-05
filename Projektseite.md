@@ -55,7 +55,12 @@ Nach dem Programmieren in anderen Gruppenkonstallationen war uns schnell klar, d
 
 
 # Der Code
-
+Ball
+* movement
+Paddle
+* movement
+* funktion
+Score
 
 # Kritik
 

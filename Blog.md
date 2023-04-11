@@ -2,7 +2,7 @@
 
 # 09.01.2022
 Heute haben wir uns mit der Projektfindung beschäftigt. Nach dem beenden einer Pandemie war uns unklar wie es weitergehen soll. StarlogoTNG als Programm zum Programmieren ist ja bereits nicht mehr erlaubt. Von nun an sind schwerere, oder besser gesagt forderndere Programme gefordert. Natürlich ist da die Auswahl riesig und wir haben uns zuallererst in die verschiedenen Programme reingelesen. Auch war ein neues Projekt gefragt, weshalb wir uns auch mit der Projektfindung beschäftigt haben.
-Projektfindung welches Programm? welchjes Projekt?
+Projektfindung welches Programm? welchjes Projek
 
 
 # 16.01.2022
@@ -75,7 +75,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 * Coden von Pong
   * TEXT 
 * Paddle funktion
-  * TEXT 
+  * Heute haben wir mit dem Coden von Paddles fortgefahren
 # 25.03.2023
 * Coden von Pong
   * TEXT 

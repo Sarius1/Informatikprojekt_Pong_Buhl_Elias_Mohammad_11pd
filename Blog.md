@@ -93,5 +93,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 Seminartag
 erstellen der Projektseite
  Score erstellen mit hilfe von herr buhl.
-
+ 
+ # 25.04.2023
+Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist di Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben.
 

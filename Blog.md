@@ -95,5 +95,5 @@ erstellen der Projektseite
  Score erstellen mit hilfe von herr buhl.
  
  # 25.04.2023
-Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist di Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben.
+Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist di Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben. Dabei haben wir an der Formatierung gearbeitet, also der Ästhetik, aber auch am Inhalt.
 

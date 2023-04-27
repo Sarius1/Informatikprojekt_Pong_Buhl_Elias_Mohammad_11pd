@@ -42,7 +42,7 @@ So hat man bei if-statements immer einer condition, auf die ein statement immer 
  
 Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  Lettuce is Good for You! (collision detection)
-   * Heute haben wir neben den Schildkröten noch den Salat als Schauspieler hinzugefügt. Dieser Salat hat keine funktion, bis auf die Tatsache, dass die Schildkröte mit ihm interagieren kann. Die Schildkröte kann nämlich, während sie über ihn rüberkrabbelt, ihn essen. Dafür braucht man nur eine if Funktion, welche sagt, dass wenn eine Schildkröte über einen Salat krabbelt sie ih isst und der Salat verschwindet. Des weiteren wurde gezeigt, wie man ein Layout speichert, sodass man nicht immer wieder neu die Schauspiueler(Actors rüberziehen muss.
+   * Heute haben wir neben den Schildkröten noch den Salat als Schauspieler hinzugefügt. Dieser Salat hat keine funktion, bis auf die Tatsache, dass die Schildkröte mit ihm interagieren kann. Die Schildkröte kann nämlich, während sie über ihn rüberkrabbelt, ihn essen. Dafür braucht man nur eine if Funktion, welche sagt, dass wenn eine Schildkröte über einen Salat krabbelt sie ih isst und der Salat verschwindet. Des weiteren wurde gezeigt, wie man ein Layout speichert, sodass man nicht immer wieder neu die Schauspieler(Actors rüberziehen muss).
 *   Keeping your Code Clean
     * Wie der Titel bereits besagt, wurde gezeigt wie man seinen Code geordnet hält. Dies ist wichtig, da der Quellcode mit der Zeit immer länger wird. Um nicht den Überblick zu verlieren und Fehler zu vermeiden kann man dies auf verschiedene Art und Weise vorbeugen. Man kann bspw.Leere Zeilen einbauen.   
 *   Snakes on a Plane!

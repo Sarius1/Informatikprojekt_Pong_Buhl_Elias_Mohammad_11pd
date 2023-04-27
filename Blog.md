@@ -66,9 +66,13 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *   Bouncy Balls with Mouse Input
     * TEXT   
 # 09.03.2023
- Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
-* 
+*  Class Methods vs Instance Methods
+   *Text
+*  Dealing with errors
   * TEXT 
+* How to display text
+  * TEXT
+ # 13.03.2023
 * Paddles movement
   * TEXT
 # 20.03.2023
@@ -95,5 +99,5 @@ erstellen der Projektseite
  Score erstellen mit hilfe von herr buhl.
  
  # 25.04.2023
-Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist di Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben. Dabei haben wir an der Formatierung gearbeitet, also der Ästhetik, aber auch am Inhalt. Viele Blogeinträge erscheinen uns im nachhinein etwas zu kurz und unausführlich, weshlalb wir uns die Zeit nehmen, an diesen in den nächsten Tagen noch zu arbeiten. Dabei ist vor Alem das Erscheinungsbild wichtig, da der Inhalt in großen Teilen bereits im Blog steht, nur noch ausgeschrieben werden muss. Des weiteren haben wir auch an der Projektseite weitergearbeitet, welche neben dem Projekt auch eine große Rolle für die Benotung spielt, weshalb auch da viel Arbeit reingesteckt werden muss.
+Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist die Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben. Dabei haben wir an der Formatierung gearbeitet, also der Ästhetik, aber auch am Inhalt. Viele Blogeinträge erscheinen uns im nachhinein etwas zu kurz und unausführlich, weshlalb wir uns die Zeit nehmen, an diesen in den nächsten Tagen noch zu arbeiten. Dabei ist vor Alem das Erscheinungsbild wichtig, da der Inhalt in großen Teilen bereits im Blog steht, nur noch ausgeschrieben werden muss. Des weiteren haben wir auch an der Projektseite weitergearbeitet, welche neben dem Projekt auch eine große Rolle für die Benotung spielt, weshalb auch da viel Arbeit reingesteckt werden muss.
 

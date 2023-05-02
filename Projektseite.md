@@ -60,7 +60,8 @@ Pong ähnelt stark dem Sport Tischtennis oder Tennis. Es gibt zwei Spieler die j
 Nach dem Programmieren in anderen Gruppenkonstallationen war uns schnell klar, dass wir nun zügig mit der Entwicklung eines neuen Projektes beginnen wollten. Schnell war uns klar, dass wir ein Spiel entwickeln wollten, etwas was jeder kennt und von vielen Menschen gespielt wird(vielleicht sogar Suchtpotenzial hat?;)). Nach einiger Zeit sind wir dann auf Pong! gestoßen. Es war das perfekte Spiel zum Coden, da es nicht zu schwer war und man anhand des Spiels gut die Mechaniken mit einer neuen Sprache erlernen kann. Dies war uns sehr wichtig, da wir im letzten Jahr mit StarlogoTNG, eine Blogsprache gearbeitet haben. Dieses Halbjahr wollten wir jedoch mit Greenfoot, einer fortgefahreneren Sprache etwas Entwickeln. 
 
 <h2 id="kapitel5">5. Vorstellung des Projekts</h2>
-
+https://isurfstormarn.de/iserv/file/-/Groups/Klasse%2011p/Profil_Seminar_Informatik/Informatikprojekt
+Link zum Video
 <h2 id="kapitel6">6. Der Code</h2>
 Ball
 * movement

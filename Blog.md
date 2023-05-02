@@ -46,6 +46,9 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *   Keeping your Code Clean
     * Wie der Titel bereits besagt, wurde gezeigt wie man seinen Code geordnet hält. Dies ist wichtig, da der Quellcode mit der Zeit immer länger wird. Um nicht den Überblick zu verlieren und Fehler zu vermeiden kann man dies auf verschiedene Art und Weise vorbeugen. Man kann bspw.Leere Zeilen einbauen.   
 *   Snakes on a Plane!
+    * In dieser Lektion haben wir eine neue Klasse, nämlich die Schlangen (snakes) hinzugefügt. Diese sollten die Schildkröte jagen und aufessen. Dazu hat man einfach den Code der Schildkröte genommen, welche ein mehr oder weniger random-Verhalten haben und Salat essen kopiert, und in das der Schlange eingefügt. Da wir jedoch wollen, dass die Schlange die Schildkröte isst, mussten wir noch ändern, dass sie bei Kontakt keinen Salat, sondern Schildkröten isst.
+ ![image](https://user-images.githubusercontent.com/111464150/235751228-6b792006-7348-40c4-b683-b13e8e2e0709.png)
+
 # 03.03.2023
 *  It's done: Play the Game! (keyboard control) (with teacher commentary)
 *  Make it Your Own (changing images)

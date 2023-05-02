@@ -80,6 +80,8 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
  # 13.03.2023
 * Paddles movement
   * TEXT
+ ![image](https://user-images.githubusercontent.com/111464150/235778905-94413617-e939-4233-933f-8e104f129266.png)
+
 # 20.03.2023
 * Coden von Pong
   * TEXT 
@@ -89,7 +91,10 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
 * Coden von Pong
   * TEXT 
 *  Ball movement
-   * TEXT  
+   * TEXT 
+ ![image](https://user-images.githubusercontent.com/111464150/235779188-2345c51a-00bd-4d72-a11c-cc8de1db8e1f.png)
+![image](https://user-images.githubusercontent.com/111464150/235779257-facdfed3-b9a3-49fe-a976-8d858e4658ac.png)
+
 # 30.03.2023
 * Coden von Pong
   * TEXT 
@@ -101,7 +106,9 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
  ......................................................................................................................................................................................................................................
 # 05.04.2023
 Heute hatten wir den Seminartag, hatten also den ganzen Tag Zeit, an unserem Projekt zu arbeiten. Da wir jedoch schon weit fortgeschritten waren, hatten wir nicht zu viel zutun. Eine Herausforderung war jedoch das Scoreboard. So meinte bereits der ursprüngliche Coder von Pong!, dass das Scoreboard das komplizierteste am ganzen Projekt war. Wir konnten ihm da nur zustimmen, da wir dafür auch Herr Buhls Hilfe in Anspruch nehmen mussten.
-Dies hatte jedoch irgenwann geklappt, wo wir nur noch mit Herr Buhl im Computerraum waren und alle bereits nachhause gegangen sind. jedoch waren wir mit dem Spiel an sich fertig. Außerdem haben wir parallel bereits angefangen die Projektseite auszuschreiben. Ein grobes Konzept hatten wir zwar, mussten dieses jedoch noch ausschreiben.
+Dies hatte jedoch irgenwann geklappt, wo wir nur noch mit Herr Buhl im Computerraum waren und alle bereits nachhause gegangen sind. jedoch waren wir mit dem Spiel an sich fertig. Anbei ein Bild, wie es am Ende aussieht.
+ ![image](https://user-images.githubusercontent.com/111464150/235778562-e7b31713-2846-4144-bb86-a8fb1d68f951.png)
+Außerdem haben wir parallel bereits angefangen die Projektseite auszuschreiben. Ein grobes Konzept hatten wir zwar, mussten dieses jedoch noch ausschreiben.
  
  # 25.04.2023
 Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist die Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben. Dabei haben wir an der Formatierung gearbeitet, also der Ästhetik, aber auch am Inhalt. Viele Blogeinträge erscheinen uns im nachhinein etwas zu kurz und unausführlich, weshlalb wir uns die Zeit nehmen, an diesen in den nächsten Tagen noch zu arbeiten. Dabei ist vor Alem das Erscheinungsbild wichtig, da der Inhalt in großen Teilen bereits im Blog steht, nur noch ausgeschrieben werden muss. Des weiteren haben wir auch an der Projektseite weitergearbeitet, welche neben dem Projekt auch eine große Rolle für die Benotung spielt, weshalb auch da viel Arbeit reingesteckt werden muss.

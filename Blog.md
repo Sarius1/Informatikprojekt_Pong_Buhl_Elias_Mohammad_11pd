@@ -53,7 +53,9 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  It's done: Play the Game! (keyboard control) (with teacher commentary)
 *  Make it Your Own (changing images)
 *  Fun with Sound
-   *  TEXT
+   *  Diese Einheit beschäftigt sich, wie der Titel bereits sagt mit dem Einfügen von Sounds. Dies ist auch ziemlich einfach, da man lediglich nach der if-Funktion und der Folge einfach einen Sound aus seinen Files hinzufügen muss. Wir haben dazu einfach den Sound von Code of Joy gedownloaded, um es möglich autenthisch zu halten. letztendlich sollte der Code ungefähr wie folgt aussehen:
+ ![image](https://user-images.githubusercontent.com/111464150/235773201-a9a07354-af19-414e-9310-de9e60c4fe02.png)
+Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound für die Schildkröten und Schlangen in der kleinen Simulation hinzugefügt.
 *  The Structure of a Class
    *  TEXT
 *   A First Look at Variables
@@ -74,7 +76,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  Dealing with errors
   * TEXT 
 * How to display text
-  * TEXT
+  * TEXT..................................................................................................................................................................................................................................
  # 13.03.2023
 * Paddles movement
   * TEXT
@@ -96,11 +98,12 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 # 02.04.2023
 * Score
   * TEXT 
+ ......................................................................................................................................................................................................................................
 # 05.04.2023
-Seminartag
-erstellen der Projektseite
- Score erstellen mit hilfe von herr buhl.
+Heute hatten wir den Seminartag, hatten also den ganzen Tag Zeit, an unserem Projekt zu arbeiten. Da wir jedoch schon weit fortgeschritten waren, hatten wir nicht zu viel zutun. Eine Herausforderung war jedoch das Scoreboard. So meinte bereits der ursprüngliche Coder von Pong!, dass das Scoreboard das komplizierteste am ganzen Projekt war. Wir konnten ihm da nur zustimmen, da wir dafür auch Herr Buhls Hilfe in Anspruch nehmen mussten.
+Dies hatte jedoch irgenwann geklappt, wo wir nur noch mit Herr Buhl im Computerraum waren und alle bereits nachhause gegangen sind. jedoch waren wir mit dem Spiel an sich fertig. Außerdem haben wir parallel bereits angefangen die Projektseite auszuschreiben. Ein grobes Konzept hatten wir zwar, mussten dieses jedoch noch ausschreiben.
  
  # 25.04.2023
 Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist die Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben. Dabei haben wir an der Formatierung gearbeitet, also der Ästhetik, aber auch am Inhalt. Viele Blogeinträge erscheinen uns im nachhinein etwas zu kurz und unausführlich, weshlalb wir uns die Zeit nehmen, an diesen in den nächsten Tagen noch zu arbeiten. Dabei ist vor Alem das Erscheinungsbild wichtig, da der Inhalt in großen Teilen bereits im Blog steht, nur noch ausgeschrieben werden muss. Des weiteren haben wir auch an der Projektseite weitergearbeitet, welche neben dem Projekt auch eine große Rolle für die Benotung spielt, weshalb auch da viel Arbeit reingesteckt werden muss.
-
+# 02.05.2023
+Heute haben wir weiter am Ausschreiben des Blogs und der Projektseite fortgefahren. Dies hat wieder eine einige Zeit in Anspruch genommen

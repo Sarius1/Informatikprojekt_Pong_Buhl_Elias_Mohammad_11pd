@@ -70,7 +70,7 @@ Paddle
 * funktion
 
 Score
-
+Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen
 <h2 id="kapitel7">7. Kritik</h2>
 Der Sprung von StarlogoTNG zu Greenfoot war ein gewaltiger, aber dennoch ein Fortschritt. AUfgrund einer ganz anderen Umgebung haben wir erstmal Einfindungszeit in das Programm gebraucht. Diese haben wir sinnvoll durch die Lernaktivitäten genutzt, welche von Joy of Code bereitgestellt wurden. Dadurch konnten wir die Umgebung besser kennenlernen und gleichzeitig viele bereits bekannte Code-Blocks kennenlernen. So haben wir booleansche Variablen, if-Bedinungen und vieles andere Wiederholt. Dies hätte man vermeiden können, indem man wiederholende Einheiten, die man bereits bei StarlogoTNG behandelt hat überspringt. Andererseits ist die Umgebung eine andere, weshalb sich die bereits bekannten Coding-mechanisms ändern und man sich diesen änderungen bewusst sein sollte. Daher kann man bei diesem Punkt Zwiegespalten sein. Ein anderer Punkt ist, dass Greenfoot immer noch kein vollständiges Programm ist und die Funktionen daher eingeschränkt sind. Des weiteren ist das Pong-Spiel auch nicht ganz unsere Idee, da das Spiel bereist sein 50 Jahre Jubiläum gefeiert hat.
 

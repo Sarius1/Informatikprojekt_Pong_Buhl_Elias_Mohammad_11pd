@@ -68,9 +68,17 @@ Ball
 * movement
  
 Paddle
-* Als nächstes ist der Code für das Paddle dran. Der erste Teil ist hier eingeblendet![image](https://user-images.githubusercontent.com/111464150/236014743-79a79b9b-0feb-45cc-9a81-0f29080c02db.png)
+* Als nächstes ist der Code für das Paddle dran. Der erste Teil ist hier eingeblendet
+
+![image](https://user-images.githubusercontent.com/111464150/236014743-79a79b9b-0feb-45cc-9a81-0f29080c02db.png)
+
+
 Im ersten Teil werden einfache Größen wie höhe breite Farbe etc. bestimmt. Außerdem wird bereits festgelegt, wie man die Paddles bewegen soll, nämlich mit den up und down Tasten. Beim zweiten Teil geht es vor Allem darum, was die Folge vom drücken der Tasten ist.
+
+
 ![image](https://user-images.githubusercontent.com/111464150/236015433-020fdeb2-630c-4f37-b4b4-bc50aeae9a8f.png)
+
+
 Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y-Wert um zwei. Außerdem geben wir noch am Ende an, dass das Paddle nicht die Welt verlassen darf. Dadurch setzten wir ein Limit an Y-Werten, welches das Paddle nicht überschreiten darf. Dadurch gibt es keine Ungleichheiten zum echten Spiel und es fühlt sich wie das echte Spiel an.
 
 

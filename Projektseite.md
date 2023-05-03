@@ -64,8 +64,20 @@ Pong! ist ein Two-Player-Spiel, welches auf dem realen Spiel Tischtennis
 https://isurfstormarn.de/iserv/file/-/Groups/Klasse%2011p/Profil_Seminar_Informatik/Informatikprojekt
 Link zum Video
 <h2 id="kapitel6">6. Der Code</h2>
+
+
 Ball
-* movement
+* Beim Code für den Ball war es wichtig zu beachten, dass er mit verschiedenen Dingen interagiert. Falls er die Wände der X-Achse berührt, muss er ganz normal abprallen, genauso wie mit den Paddles. Wenn er jedoch die Y-Wand berührt muss der Ball wieder in der mitte erscheinen und dem Spieler muss ein Punkt hinzuaddiert werden.
+
+
+![image](https://user-images.githubusercontent.com/111464150/236029446-773c5a71-59d3-4b0d-b89e-ab131ce23187.png)
+
+
+ In dem Teil sieht man wie der Code auf das Aufprallen  mit den "Punktewänden" reagieren muss. Anstatt einfach nur einen Punkt zu geben, sind auch die Koordinaten angegeben, auf denen er danach erscheinen muss.
+ 
+ ![image](https://user-images.githubusercontent.com/111464150/236030294-93d6792e-baaf-4c2d-b174-f07f38bdc5bb.png)
+
+In dem Teil des Codes wird das aufkommen des Codes mit dem Ball beschrieben. Da dies viele Probleme und Bugs bereitstellte, hatten wir einen Delay eingefügt, der das ganze etwas verzögert.
  
 Paddle
 * Als nächstes ist der Code für das Paddle dran. Der erste Teil ist hier eingeblendet
@@ -84,6 +96,16 @@ Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y
 
 Score
 Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen
+
+![image](https://user-images.githubusercontent.com/111464150/236030831-0beaa8c3-f223-4e33-9ce8-34f911d63ac2.png)
+
+Oben ist ein Bild eingeblendet, wie das Scoreboard im Spiel aussieht.
+
+![image](https://user-images.githubusercontent.com/111464150/236031112-78a36b38-e020-4c0d-a1a0-b1d0be105d99.png)
+
+Der erste Teil des Codes beschäftigt sich mit der Win-Message. Wenn ein Spieler mehr als 5 Punkte erreicht hat, erscheint eine Nachricht. Der mittlere Teil beschäftigt sich mit den Angaben wie Koordinaten des Scoreboards, Anzeige u. ä. . Im untersten Teil geht es um die Win_message, denn mit ihr ist das Spiel beendet. Dies beschreibt die Funktion Greenfoot_stop. Dadurch hört der Code auf. Wenn ein Spieler die 5 Punkte erreicht, erscheint die Message.
+
+
 <h2 id="kapitel7">7. Kritik</h2>
 Der Sprung von StarlogoTNG zu Greenfoot war ein gewaltiger, aber dennoch ein Fortschritt. AUfgrund einer ganz anderen Umgebung haben wir erstmal Einfindungszeit in das Programm gebraucht. Diese haben wir sinnvoll durch die Lernaktivitäten genutzt, welche von Joy of Code bereitgestellt wurden. Dadurch konnten wir die Umgebung besser kennenlernen und gleichzeitig viele bereits bekannte Code-Blocks kennenlernen. So haben wir booleansche Variablen, if-Bedinungen und vieles andere Wiederholt. Dies hätte man vermeiden können, indem man wiederholende Einheiten, die man bereits bei StarlogoTNG behandelt hat überspringt. Andererseits ist die Umgebung eine andere, weshalb sich die bereits bekannten Coding-mechanisms ändern und man sich diesen änderungen bewusst sein sollte. Daher kann man bei diesem Punkt Zwiegespalten sein. Ein anderer Punkt ist, dass Greenfoot immer noch kein vollständiges Programm ist und die Funktionen daher eingeschränkt sind. Des weiteren ist das Pong-Spiel auch nicht ganz unsere Idee, da das Spiel bereist sein 50 Jahre Jubiläum gefeiert hat. Ein weiterer Kritikpunkt ist aber auch die Einfachkeit des Spiels. Viele Spiele aus der heutigen Zeit haben anschauliche, fast reale Graphiken. Spieler können mit fast allem in der Welt interagieren und das Spiel wird zusätzlich durch Power-Ups,Level und andere Sachen interessant gemacht. Auch kann man es als negativ Werten, dass Pong in der Zweidimensionalitt gefangen ist. Beim Release des Spiels war es noch was ganz normales, doch heute überwiegen dreidimensionale Spiele einfach den Markt. Allerdings muss man auch sagen, dass man Pong! nicht einfach in ein 3-D Spiel umändern kann, da es einfach von den Mechaniken her auf 2-D ausgelegt ist und es keinen Sinn macht diese Krampfhaft auf 3-D zu ändern. Es würde auch den eigentlichen Sinn des Spiels, und zwar des einfachen Zeitvertreibs zu Zweit entfliehen und sich in eine andere Richtung bewegen.
 

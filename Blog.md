@@ -57,7 +57,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
  ![image](https://user-images.githubusercontent.com/111464150/235773201-a9a07354-af19-414e-9310-de9e60c4fe02.png)
 Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound für die Schildkröten und Schlangen in der kleinen Simulation hinzugefügt.
 *  The Structure of a Class
-   *  TEXT
+   *  TEXT...
 *   A First Look at Variables
     * TEXT
 # 06.03.2023

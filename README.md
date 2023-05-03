@@ -12,4 +12,4 @@ Der Blog ist wie das Coden ein langzeitprojekt in welchem wir stündlich eingetr
 
 
 # Projektseite
-Auf der Projektseite haben wir unser Projekt Pong dargestellt, so wie man auch andere Codingprojekte oder Spiele vorstellen würde. bZusaätzlich haben wir noch andere Kategorien aufgeführt.
+Auf der Projektseite haben wir unser Projekt Pong dargestellt, so wie man auch andere Codingprojekte oder Spiele vorstellen würde. Zusaätzlich haben wir noch andere Kategorien aufgeführt.

@@ -63,10 +63,14 @@ Nach dem Programmieren in anderen Gruppenkonstallationen war uns schnell klar, d
 Pong! ist ein Two-Player-Spiel, welches auf dem realen Spiel Tischtennis 
 https://isurfstormarn.de/iserv/file/-/Groups/Klasse%2011p/Profil_Seminar_Informatik/Informatikprojekt
 Link zum Video
+
+
 <h2 id="kapitel6">6. Der Code</h2>
 
 
 Ball
+
+
 * Beim Code für den Ball war es wichtig zu beachten, dass er mit verschiedenen Dingen interagiert. Falls er die Wände der X-Achse berührt, muss er ganz normal abprallen, genauso wie mit den Paddles. Wenn er jedoch die Y-Wand berührt muss der Ball wieder in der mitte erscheinen und dem Spieler muss ein Punkt hinzuaddiert werden.
 
 
@@ -80,6 +84,8 @@ Ball
 In dem Teil des Codes wird das aufkommen des Codes mit dem Ball beschrieben. Da dies viele Probleme und Bugs bereitstellte, hatten wir einen Delay eingefügt, der das ganze etwas verzögert.
  
 Paddle
+
+
 * Als nächstes ist der Code für das Paddle dran. Der erste Teil ist hier eingeblendet
 
 ![image](https://user-images.githubusercontent.com/111464150/236014743-79a79b9b-0feb-45cc-9a81-0f29080c02db.png)
@@ -91,10 +97,12 @@ Im ersten Teil werden einfache Größen wie höhe breite Farbe etc. bestimmt. Au
 ![image](https://user-images.githubusercontent.com/111464150/236015433-020fdeb2-630c-4f37-b4b4-bc50aeae9a8f.png)
 
 
-Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y-Wert um zwei. Außerdem geben wir noch am Ende an, dass das Paddle nicht die Welt verlassen darf. Dadurch setzten wir ein Limit an Y-Werten, welches das Paddle nicht überschreiten darf. Dadurch gibt es keine Ungleichheiten zum echten Spiel und es fühlt sich wie das echte Spiel an.
+Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y-Wert um zwei. Außerdem geben wir noch am Ende an, dass das Paddle nicht die Welt verlassen darf. Dadurch setzten wir ein Limit an Y-Werten, welches das Paddle nicht überschreiten darf. Dadurch gibt es keine Ungleichheiten zum echten Spiel und es fühlt sich wie das echte Spiel an. Das Paddle hat einen besonderen Stellenwert im Spiel, da man dadurch den Ball als Spieler beeinflussen kann. Man beschützt sein Tor und geht gleichzeitig zu einem gegenschlag zum gegner über.
 
 
 Score
+
+
 Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen
 
 ![image](https://user-images.githubusercontent.com/111464150/236030831-0beaa8c3-f223-4e33-9ce8-34f911d63ac2.png)
@@ -107,10 +115,20 @@ Der erste Teil des Codes beschäftigt sich mit der Win-Message. Wenn ein Spieler
 
 
 <h2 id="kapitel7">7. Kritik</h2>
-Der Sprung von StarlogoTNG zu Greenfoot war ein gewaltiger, aber dennoch ein Fortschritt. AUfgrund einer ganz anderen Umgebung haben wir erstmal Einfindungszeit in das Programm gebraucht. Diese haben wir sinnvoll durch die Lernaktivitäten genutzt, welche von Joy of Code bereitgestellt wurden. Dadurch konnten wir die Umgebung besser kennenlernen und gleichzeitig viele bereits bekannte Code-Blocks kennenlernen. So haben wir booleansche Variablen, if-Bedinungen und vieles andere Wiederholt. Dies hätte man vermeiden können, indem man wiederholende Einheiten, die man bereits bei StarlogoTNG behandelt hat überspringt. Andererseits ist die Umgebung eine andere, weshalb sich die bereits bekannten Coding-mechanisms ändern und man sich diesen änderungen bewusst sein sollte. Daher kann man bei diesem Punkt Zwiegespalten sein. Ein anderer Punkt ist, dass Greenfoot immer noch kein vollständiges Programm ist und die Funktionen daher eingeschränkt sind. Des weiteren ist das Pong-Spiel auch nicht ganz unsere Idee, da das Spiel bereist sein 50 Jahre Jubiläum gefeiert hat. Ein weiterer Kritikpunkt ist aber auch die Einfachkeit des Spiels. Viele Spiele aus der heutigen Zeit haben anschauliche, fast reale Graphiken. Spieler können mit fast allem in der Welt interagieren und das Spiel wird zusätzlich durch Power-Ups,Level und andere Sachen interessant gemacht. Auch kann man es als negativ Werten, dass Pong in der Zweidimensionalitt gefangen ist. Beim Release des Spiels war es noch was ganz normales, doch heute überwiegen dreidimensionale Spiele einfach den Markt. Allerdings muss man auch sagen, dass man Pong! nicht einfach in ein 3-D Spiel umändern kann, da es einfach von den Mechaniken her auf 2-D ausgelegt ist und es keinen Sinn macht diese Krampfhaft auf 3-D zu ändern. Es würde auch den eigentlichen Sinn des Spiels, und zwar des einfachen Zeitvertreibs zu Zweit entfliehen und sich in eine andere Richtung bewegen.
+Der Sprung von StarlogoTNG zu Greenfoot war ein gewaltiger, aber dennoch ein Fortschritt. Aufgrund einer ganz anderen Umgebung haben wir erstmal Einfindungszeit in das Programm gebraucht. Diese haben wir sinnvoll durch die Lernaktivitäten genutzt, welche von Joy of Code bereitgestellt wurden. Dadurch konnten wir die Umgebung besser kennenlernen und gleichzeitig viele bereits bekannte Code-Blocks kennenlernen. So haben wir booleansche Variablen, if-Bedinungen und vieles andere Wiederholt. Dies hätte man vermeiden können, indem man wiederholende Einheiten, die man bereits bei StarlogoTNG behandelt hat überspringt. Andererseits ist die Umgebung eine andere, weshalb sich die bereits bekannten Coding-Mechanisms ändern und man sich diesen änderungen bewusst sein sollte. Daher kann man bei diesem Punkt Zwiegespalten sein. Ein anderer Punkt ist, dass Greenfoot immer noch kein vollständiges Programm ist und die Funktionen daher eingeschränkt sind. Des weiteren ist das Pong-Spiel auch nicht ganz unsere Idee, da das Spiel bereist sein 50 Jahre Jubiläum gefeiert hat. Zu dem Jubiläum haben viele Spiler, die das Spiel seit der veröffentlichung spielen unzählige Lifestreams Minispiele etc. veranstaltet. Anbei ein Beispielvideo des Spielers Brett Weiss
+
+https://www.youtube.com/watch?v=3zmWr_F5f1k
+
+Ein weiterer Kritikpunkt ist aber auch die Einfachkeit des Spiels. Viele Spiele aus der heutigen Zeit haben anschauliche, fast reale Graphiken. Spieler können mit fast allem in der Welt interagieren und das Spiel wird zusätzlich durch Power-Ups,Level und andere Sachen interessant gemacht.
+
+
+![image](https://user-images.githubusercontent.com/111464150/236168380-8cf73373-8561-4d5e-8860-8f9cb4878265.png)
+
+
+Auch kann man es als negativ Werten, dass Pong in der Zweidimensionalitt gefangen ist. Beim Release des Spiels war es noch was ganz normales, doch heute überwiegen dreidimensionale Spiele einfach den Markt. Allerdings muss man auch sagen, dass man Pong! nicht einfach in ein 3-D Spiel umändern kann, da es einfach von den Mechaniken her auf 2-D ausgelegt ist und es keinen Sinn macht diese Krampfhaft auf 3-D zu ändern. Es würde auch den eigentlichen Sinn des Spiels, und zwar des einfachen Zeitvertreibs zu Zweit entfliehen und sich in eine andere Richtung bewegen.
 
 <h2 id="kapitel8">8. Fazit/Aussicht für die Zukunft</h2>
-Neben Tetris ist Pong ein Spiel, welches die Gaming-Industrie Revolutioniert hat. Mit seiner "Simplicity" hat es mehrere 100 Millionen User überzeugt und viele spielen es bis heute. Obwohl es nicht schwer war zu coden, haben wir persönlich viel mitnehmen können. Eines der schwierigsten Coding-Elemente war nämlich das Score-Board. Es war dennoch der perfekte Einstieg für das coden mit Java. Wir konnten viele verschiedene Techniken lernen und durch Selbsterkenntnis auch viel persönlich mitnehmen können. Dank der vielen Lerneinheiten vorab, konnten wir das Selbstständige Lernen "lernen". Dies bedeutet, dass wir uns viel selbstständig erarbeitet haben und bei Hilfe Quellen aus dem Internet zur rate gezogen haben und nur wenn wir gar nicht weiterwussten Hilfe beim Lehrer suchten. Dies ist eine Fähigkeit, welche im Studium ( was ja viele nach dem Abitur anstreben) sehr essentiell ist, vielen aber nicht aufgrund der Unterrichtsgestaltung mitgegeben werden kann. Diese trifft es dann anz plötzlich, wenn sie ein großes Maß an Freiheiten besitzen, mit denen sie nicht umgehen können. Aufgrund der Gestaltung des Unterrichts, konnten wir diesen Skill jedoch schon aus der Schule mitnehmen.
+Neben Tetris ist Pong ein Spiel, welches die Gaming-Industrie Revolutioniert hat. Mit seiner "Simplicity" hat es mehrere 100 Millionen User überzeugt und viele spielen es bis heute. Obwohl es nicht schwer war zu coden, haben wir persönlich viel mitnehmen können. Eines der schwierigsten Coding-Elemente war nämlich das Score-Board. Es war dennoch der perfekte Einstieg für das coden mit Java. Wir konnten viele verschiedene Techniken lernen und durch Selbsterkenntnis auch viel persönlich mitnehmen können. Dank der vielen Lerneinheiten vorab, konnten wir das Selbstständige Lernen "lernen". Dies bedeutet, dass wir uns viel selbstständig erarbeitet haben und bei Hilfe Quellen aus dem Internet zur Rate gezogen haben und nur wenn wir gar nicht weiterwussten Hilfe beim Lehrer suchten. Dies ist eine Fähigkeit, welche im Studium ( was ja viele nach dem Abitur anstreben) sehr essentiell ist, vielen aber nicht aufgrund der Unterrichtsgestaltung mitgegeben werden kann. Diese trifft es dann anz plötzlich, wenn sie ein großes Maß an Freiheiten besitzen, mit denen sie nicht umgehen können. Aufgrund der Gestaltung des Unterrichts, konnten wir diesen Skill jedoch schon aus der Schule mitnehmen.
 
 <h2 id="kapitel9">9. Quellen</h2>
 https://de.wikipedia.org/wiki/Pong

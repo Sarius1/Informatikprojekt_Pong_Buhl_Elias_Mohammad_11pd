@@ -61,7 +61,7 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
 *   A First Look at Variables
     * TEXT
 # 06.03.2023
-
+ Heute haben wir mit den verschiedenen Lerneinheiten fortgefahren. Diese waren sogar besonders von Bedeutung für unser Projekt Pong! welches wir im Anschluss der Einheiten coden werden.
 * Object Interaction (first encounter)
   * TEXT 
 *   Adding a Score Counter

@@ -69,7 +69,7 @@ In unserem Projekt geht es darum, das Spiel Pong!, wie wir es alle kennen und li
 <h2 id="kapitel6">6. Der Code</h2>
 
 
-Ball
+**Ball
 
 
 * Beim Code für den Ball war es wichtig zu beachten, dass er mit verschiedenen Dingen interagiert. Falls er die Wände der X-Achse berührt, muss er ganz normal abprallen, genauso wie mit den Paddles. Wenn er jedoch die Y-Wand berührt muss der Ball wieder in der mitte erscheinen und dem Spieler muss ein Punkt hinzuaddiert werden.
@@ -84,7 +84,7 @@ Ball
 
 In dem Teil des Codes wird das aufkommen des Codes mit dem Ball beschrieben. Da dies viele Probleme und Bugs bereitstellte, hatten wir einen Delay eingefügt, der das ganze etwas verzögert.
  
-Paddle
+**Paddle
 
 
 * Als nächstes ist der Code für das Paddle dran. Der erste Teil ist hier eingeblendet
@@ -101,7 +101,7 @@ Im ersten Teil werden einfache Größen wie höhe breite Farbe etc. bestimmt. Au
 Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y-Wert um zwei. Außerdem geben wir noch am Ende an, dass das Paddle nicht die Welt verlassen darf. Dadurch setzten wir ein Limit an Y-Werten, welches das Paddle nicht überschreiten darf. A>nsonsten würde das Paddle nämlich aus der Welt verschwinden Dadurch gibt es keine Ungleichheiten zum echten Spiel und es fühlt sich wie das echte Spiel an. Das Paddle hat einen besonderen Stellenwert im Spiel, da man dadurch den Ball als Spieler beeinflussen kann. Man beschützt sein Tor und geht gleichzeitig zu einem gegenschlag zum gegner über.
 
 
-Score
+**Score
 
 
 Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen.

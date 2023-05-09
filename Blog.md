@@ -6,7 +6,7 @@ Projektfindung welches Programm? welchjes Projek
 
 
 # 16.01.2022
-Heute haben wir uns für ein Programm geeinigt, ud zwar Greenfoot. Greenfoot ist ein Java-lastiges Programm, mit welchem man vereinfacht Programmieren kann. Nun stellt sich noch die Frage, welche Art von Programm wir coden wollen. Sehr schnell war uns klar, dass es ein Spiel werden sollte, doch welches Spiel. Als Auswahl standen uns Spiele wie Pong, ein Tischtennisähnliches Spiel, aber auch andere einfache Spiele.
+Heute haben wir uns für ein Programm geeinigt, und zwar Greenfoot. Greenfoot ist ein Java-lastiges Programm, mit welchem man vereinfacht Programmieren kann. Nun stellt sich noch die Frage, welche Art von Programm wir coden wollen. Sehr schnell war uns klar, dass es ein Spiel werden sollte, doch welches Spiel. Als Auswahl standen uns Spiele wie Pong, ein Tischtennisähnliches Spiel, aber auch andere einfache Spiele.
 
 # 14.02.2023
 Heute haben wir die Gruppen geändert. Anstatt also der Gruppe aus Arvid und Elias, ist die Gruppe Mohammad und Elias entstanden. Dies hat jedoch das erarbeitete nicht aufgehalten, da beide Gruppen auch vor der neuen Koalition auf dem gleichen Stand waren. So arbeiten beide Gruppen mit Greenfoot. Außerdem haben wir uns für ein entgültiges Projekt entschieden. Wir werden bei Greenfoot Pong programmieren. Pong ist ein guter Einstieg, weil es nicht zu fordernd ist, aber dennoch einige Herausforderungen bereitstellt. Also haben wir mit den Vorbereitungen angefangen. Denn neben dem letztendlichen Projekt sollte man die Sprache gut beherrschen. Also haben wir nach Tutorials zu Greenfoot auf Youtube gesucht.
@@ -74,7 +74,7 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
 *  Class Methods vs Instance Methods
    *Text
 *  Dealing with errors
-  * Diese Einheit war auch sehr wichtig für uns. Hier geht es nämlich darum, wie man richtig mit Fehlern umgeht. Wir hatten im Verlauf unseren Projekt viele Fehler. Viele Bugs konnten dank dieser Lerneinheit gelöst werden. So kann man unter anderem nicht relevanten Code einklammern. So kann man sich auf den relevanten Code, welcher problematisiert wird, spezialisieren.
+   * Diese Einheit war auch sehr wichtig für uns. Hier geht es nämlich darum, wie man richtig mit Fehlern umgeht. Wir hatten im Verlauf unseren Projekt viele Fehler. Viele Bugs konnten dank dieser Lerneinheit gelöst werden. So kann man unter anderem nicht relevanten Code einklammern. So kann man sich auf den relevanten Code, welcher problematisiert wird, spezialisieren.
 * How to display text
   * hier geht es darum, wie man Text, oder Textblöcke im Programm anzeigen kann. Dies ist auch sehr relevant für uns, da wir einplanen, am Ende des Spiels eine Win-Message einzufügen. Dafür ist es natürlich unbedint notwendig zu Wissen, wie man Textblöcke in Greenfoot anzeigen lassen kann.
  # 13.03.2023
@@ -85,26 +85,24 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
 
 # 20.03.2023
 * Coden von Pong
-  * TEXT 
+  * Heute haben wir mit dem Coden von Pong fortgefahren. 
 * Paddle funktion
-  * Heute haben wir mit dem Coden von Paddles fortgefahren
+  * Heute haben wir mit dem Coden von Paddles fortgefahren So haben wir eine neue Classe namens Ball eingefügt. So konnten wir programmieren, dass diese Klasse bei berührung mit dem Paddle abprallt. Dadurch war der Code des Paddles vollständig.
 # 25.03.2023
-* Coden von Pong
-  * TEXT 
+* Coden von Pong 
 *  Ball movement
-   * TEXT 
+   * nachdem das Ball-Movement fertig war, ging es nun darum, den Ball zu programmieren. Der Ball prallt bereits von den Paddles ab, muss nun aber noch von den Wänden abprallen. So haben wir zuerst die größe des Balls bestimmt und dann das abprallen des Balles gecodet. Außerdem war es wichtig, zu programmieren, dass wenn das paddle es nicht schafft den ball abzufangen, und der Ball die Y-Achse berührt eine neue Variabel Punkte um einen steigt. Dies ist immerhin das Ziel des Spiels.
  ![image](https://user-images.githubusercontent.com/111464150/235779188-2345c51a-00bd-4d72-a11c-cc8de1db8e1f.png)
 ![image](https://user-images.githubusercontent.com/111464150/235779257-facdfed3-b9a3-49fe-a976-8d858e4658ac.png)
 
 # 30.03.2023
-* Coden von Pong
-  * TEXT 
+Heute haben wir mit dem Coden des Spiels fortgefahren, und zwar mit dem Scoreboard.
 * Score
-  * TEXT 
+  * Das Scoreboard schien eigentlich als nicht zu dramatisch, da wir es bereits als Lerneinheit behandelt haben. Jedoch war es umzusetzen in unserem Fallbeispiel doch ziemlich anders und kompliziert.
 # 02.04.2023
 * Score
-  * TEXT 
- ......................................................................................................................................................................................................................................
+  * Auch heute haben wir weiter daran geknobelt. Allerdings sind uns noch einige Bugs aufgefallen, welche wir auch noch behoben haben.
+ 
 # 05.04.2023
 Heute hatten wir den Seminartag, hatten also den ganzen Tag Zeit, an unserem Projekt zu arbeiten. Da wir jedoch schon weit fortgeschritten waren, hatten wir nicht zu viel zutun. Eine Herausforderung war jedoch das Scoreboard. So meinte bereits der ursprüngliche Coder von Pong!, dass das Scoreboard das komplizierteste am ganzen Projekt war. Wir konnten ihm da nur zustimmen, da wir dafür auch Herr Buhls Hilfe in Anspruch nehmen mussten.
 Dies hatte jedoch irgenwann geklappt, wo wir nur noch mit Herr Buhl im Computerraum waren und alle bereits nachhause gegangen sind. jedoch waren wir mit dem Spiel an sich fertig. Anbei ein Bild, wie es am Ende aussieht.

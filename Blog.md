@@ -57,17 +57,17 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
  ![image](https://user-images.githubusercontent.com/111464150/235773201-a9a07354-af19-414e-9310-de9e60c4fe02.png)
 Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound für die Schildkröten und Schlangen in der kleinen Simulation hinzugefügt.
 *  The Structure of a Class
-   *  TEXT...
+   *  Bei der Lerneinheit DStructure of a class ging es zum einen darum Ordung zwischen den verschiedenen Klassen zu schaffen. Zum anderen ging es aber auch darum, die verschiedenen Klassen roichtig anzuordnen. Dies ist vor allem für größere Projekte mit vvieölen Klassen etc von Bedeutung.
 *   A First Look at Variables
-    * TEXT
+    * Bei dieser Einheit ging es zum ertsen mal um Variablen. Dies wurde anhand einen Beispiels spielerisch gezeigt, was diese überhaupt sind. Aufgrund unserer letzten Projekte mit StarlogoTNG war da aber nicht viel neues dabei.
 # 06.03.2023
  Heute haben wir mit den verschiedenen Lerneinheiten fortgefahren. Diese waren sogar besonders von Bedeutung für unser Projekt Pong! welches wir im Anschluss der Einheiten coden werden.
 * Object Interaction (first encounter)
-  * TEXT 
+  * Bei den Objektinteraktionen geht es darum , wie verschiedene Objekte miteinander interagieren können. Dazu verwendet man die erlenten Variablen, sowie if.Strukturen. Dadurch kann man Simulationen und Spiele belebter machen.
 *   Adding a Score Counter
-    * TEXT   
+    * Diese Einheit war für uns von großer Bedeutung. Dies liegt daran, dass bei Pong! auch ein Scoreboard benötigt wird. Daher konnten wir hier schon viel lernen und später bei unserem Projekt so anwenden. Dies zeigt wieder, dass die verschiedenen Einheiten sehr nützlich sind, da man zum einen viel allgemeines lernt, aber auch viel Spezifisches für unser Projekt.
 *   Bouncy Coloured Balls
-    * TEXT   
+    * Bei Bouncy coulored Balls ging es darum, Objekten verschiedenen Farben zuzuordnen. Außerdem hat man ein Gebiet festgelegt, welches die Bällee nicht überschreiten können und bei Berührung abprallen und die Farbe ändern   
 *   Bouncy Balls with Mouse Input
     * TEXT   
 # 09.03.2023

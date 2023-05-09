@@ -114,3 +114,5 @@ Außerdem haben wir parallel bereits angefangen die Projektseite auszuschreiben.
 Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Leider ist die Präsenzstunde ausgefallen, weshalb wir uns auf digitaler Ebene getroffen haben und den Blog ergänzt haben. Dabei haben wir an der Formatierung gearbeitet, also der Ästhetik, aber auch am Inhalt. Viele Blogeinträge erscheinen uns im nachhinein etwas zu kurz und unausführlich, weshlalb wir uns die Zeit nehmen, an diesen in den nächsten Tagen noch zu arbeiten. Dabei ist vor Alem das Erscheinungsbild wichtig, da der Inhalt in großen Teilen bereits im Blog steht, nur noch ausgeschrieben werden muss. Des weiteren haben wir auch an der Projektseite weitergearbeitet, welche neben dem Projekt auch eine große Rolle für die Benotung spielt, weshalb auch da viel Arbeit reingesteckt werden muss.
 # 02.05.2023
 Heute haben wir weiter am Ausschreiben des Blogs und der Projektseite fortgefahren. Dies hat wieder eine einige Zeit in Anspruch genommen
+ # 09.05.2023
+ Heute habern wir noch versucht, eine Beschleunigung in unseren Ball reingekriegt. Dadur4ch erschweren wir einen langen Ballwechsel.

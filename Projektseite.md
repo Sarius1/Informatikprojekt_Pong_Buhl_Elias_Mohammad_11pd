@@ -145,4 +145,4 @@ Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst un
 
 Elias Michno und Mohammad Rezaei
 
-Unsere Projektseite umfasst ............ Wörter
+Unsere Projektseite umfasst 1595 Wörter

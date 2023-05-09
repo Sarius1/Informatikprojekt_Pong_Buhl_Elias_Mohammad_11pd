@@ -92,23 +92,23 @@ Paddle
 ![image](https://user-images.githubusercontent.com/111464150/236014743-79a79b9b-0feb-45cc-9a81-0f29080c02db.png)
 
 
-Im ersten Teil werden einfache Größen wie höhe breite Farbe etc. bestimmt. Außerdem wird bereits festgelegt, wie man die Paddles bewegen soll, nämlich mit den up und down Tasten. Beim zweiten Teil geht es vor Allem darum, was die Folge vom drücken der Tasten ist.
+Im ersten Teil werden einfache Größen wie höhe breite Farbe etc. bestimmt. Außerdem wird bereits festgelegt, wie man die Paddles bewegen soll, nämlich mit den up und down Tasten. Beim zweiten Teil geht es vor Allem darum, was die Folge vom drücken der Tasten ist. Dies bed3eutet also, dass wenn ich die up taste drücke, dass sich dementsprechend auch das rechte Paddle nach oben bewegt. Wenn ich die Downtaste drücke bewegt sich das Paddle nach unten. Beim betätigen der w-Taste bewegt sich das linke Paddle, und beim betätigen der s-Taste bewegt sich das linke Paddle nach unten.
 
 
 ![image](https://user-images.githubusercontent.com/111464150/236015433-020fdeb2-630c-4f37-b4b4-bc50aeae9a8f.png)
 
 
-Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y-Wert um zwei. Außerdem geben wir noch am Ende an, dass das Paddle nicht die Welt verlassen darf. Dadurch setzten wir ein Limit an Y-Werten, welches das Paddle nicht überschreiten darf. Dadurch gibt es keine Ungleichheiten zum echten Spiel und es fühlt sich wie das echte Spiel an. Das Paddle hat einen besonderen Stellenwert im Spiel, da man dadurch den Ball als Spieler beeinflussen kann. Man beschützt sein Tor und geht gleichzeitig zu einem gegenschlag zum gegner über.
+Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y-Wert um zwei. Außerdem geben wir noch am Ende an, dass das Paddle nicht die Welt verlassen darf. Dadurch setzten wir ein Limit an Y-Werten, welches das Paddle nicht überschreiten darf. A>nsonsten würde das Paddle nämlich aus der Welt verschwinden Dadurch gibt es keine Ungleichheiten zum echten Spiel und es fühlt sich wie das echte Spiel an. Das Paddle hat einen besonderen Stellenwert im Spiel, da man dadurch den Ball als Spieler beeinflussen kann. Man beschützt sein Tor und geht gleichzeitig zu einem gegenschlag zum gegner über.
 
 
 Score
 
 
-Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen
+Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen.
 
 ![image](https://user-images.githubusercontent.com/111464150/236030831-0beaa8c3-f223-4e33-9ce8-34f911d63ac2.png)
 
-Oben ist ein Bild eingeblendet, wie das Scoreboard im Spiel aussieht.
+Oben ist ein Bild eingeblendet, wie das Scoreboard im Spiel aussieht. Anhand des Scores kann man erkennen, welcher Spieler wieviele Punkte hat. Dadurch kann man sich als Spieler mit dem anderen zu vergleichen. Dadurch wird ein Wettbewerb mit seinen Gegner ermöglicht. Dieser Score geht bis zu einem Maximum von 5 Punkten.
 
 ![image](https://user-images.githubusercontent.com/111464150/236031112-78a36b38-e020-4c0d-a1a0-b1d0be105d99.png)
 

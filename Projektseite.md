@@ -1,5 +1,6 @@
 # Projektseite
 
+![image](https://github.com/Sarius1/Informatikprojekt_Pong_Buhl_Elias_Mohammad_11pd/assets/111464150/46bd8f63-2078-4497-8273-fc284ebddc52)
 
 
 

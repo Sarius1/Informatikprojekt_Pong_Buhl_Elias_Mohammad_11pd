@@ -114,4 +114,6 @@ Nach langen Osterferien war dies unsere erste Stunde wieder mit dem Projekt. Lei
 # 02.05.2023
 Heute haben wir weiter am Ausschreiben des Blogs und der Projektseite fortgefahren. Dies hat wieder eine einige Zeit in Anspruch genommen
  # 09.05.2023
- Heute habern wir noch versucht, eine Beschleunigung in unseren Ball reingekriegt. Dadur4ch erschweren wir einen langen Ballwechsel.
+ Heute habern wir noch versucht, eine Beschleunigung in unseren Ball reingekriegt. Dadurch erschweren wir einen langen Ballwechsel.
+ # 16.05.2023
+ Nach einigen Tagen der inaktivität haben wir uns dazu entschieden, dass Projekt zu vergrößern. So haben wir weiter an der Ballbeschleunigung gearbeitet. Per se ist das nicht schwer, da man nur pro zeiteinheit oder Kontakt die Geschwindigkeit erhöhen muss, jedoch ist dies für Greenfoot schwer. Das Projekt kann nämlich nicht mit solchen schnellen Collisions umgehen und es kommt häufig zu lags bei den Paddles. So Prallt der Ball vom Paddle nicht nur ab, sondern scheint fast daran zu kleben. Dies haben wir versucht zu lösen, es aber nur mit bestimmten Hacks einigermaßen hingekriegt. Eine Standhafte Version haben wir aber noch nicht. Bei möglichkeit kriegen wir dies am Projekttag morgen hin.

@@ -1,5 +1,8 @@
 # Pong
 
+![image](https://github.com/Sarius1/Informatikprojekt_Pong_Buhl_Elias_Mohammad_11pd/assets/111464150/c45fb52b-8172-4cf6-b082-00bbf9ee06ed)
+
+
 Herlich Willkommen zu Pong!, unserem diesjärigen Informatikprojekt. Die untenstehenden Links führen dich zu unserem Blog und unserer Projektseite.
 
 

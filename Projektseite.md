@@ -58,15 +58,26 @@ Pong ähnelt stark dem Sport Tischtennis oder Tennis. Es gibt zwei Spieler die j
 
 
 <h2 id="kapitel4">4. Projektentwicklung</h2>
-Nach dem Programmieren in anderen Gruppenkonstallationen war uns schnell klar, dass wir nun zügig mit der Entwicklung eines neuen Projektes beginnen wollten. Schnell war uns klar, dass wir ein Spiel entwickeln wollten, etwas was jeder kennt und von vielen Menschen gespielt wird(vielleicht sogar Suchtpotenzial hat?;)). Nach einiger Zeit sind wir dann auf Pong! gestoßen. Es war das perfekte Spiel zum Coden, da es nicht zu schwer war und man anhand des Spiels gut die Mechaniken mit einer neuen Sprache erlernen kann. Dies war uns sehr wichtig, da wir im letzten Jahr mit StarlogoTNG, eine Blogsprache gearbeitet haben. Dieses Halbjahr wollten wir jedoch mit Greenfoot, einer fortgefahreneren Sprache etwas Entwickeln. 
+
+Nach dem Programmieren in anderen Gruppenkonstallationen war uns schnell klar, dass wir nun zügig mit der Entwicklung eines neuen Projektes beginnen wollten. Schnell war uns klar, dass wir ein Spiel entwickeln wollten, etwas was jeder kennt und von vielen Menschen gespielt wird(vielleicht sogar Suchtpotenzial hat?;)). <br>Nach einiger Zeit sind wir dann auf Pong! gestoßen. Es war das perfekte Spiel zum Coden, da es nicht zu schwer war und man anhand des Spiels gut die Mechaniken mit einer neuen Sprache erlernen kann. Dies war uns sehr wichtig, da wir im letzten Jahr mit StarlogoTNG, eine Blogsprache gearbeitet haben. Dieses Halbjahr wollten wir jedoch mit Greenfoot, einer fortgefahreneren Sprache etwas Entwickeln. 
 
 <h2 id="kapitel5">5. Vorstellung des Projekts</h2>
+
 Pong! ist ein Two-Player-Spiel, welches auf dem realen Spiel Tischtennis basiert. Es ist ein Spiel, welches keinem anderen ähnelt. Seiner Zeit voraus und heute ein Klassiker.
 Anbei haben wir euch ein Video verlinkt, wo man das spannende Gameplay von Pong! aus erster nähe betrachten kann.
 
 https://isurfstormarn.de/iserv/file/-/Groups/Klasse%2011p/Profil_Seminar_Informatik/Informatikprojekt
 
-In unserem Projekt geht es darum, das Spiel Pong!, wie wir es alle kennen und lieben in Greenfoot nachzuprogrammieren. Dazu haben wir die Javalastige-Sprache gewählt, da es eine fast universelle Sprache im Bereich Coden ist.
+In unserem Projekt geht es darum, das Spiel Pong!, wie wir es alle kennen und lieben in Greenfoot nachzuprogrammieren. Dazu haben wir die Javalastige-Sprache gewählt, da es eine fast universelle Sprache im Bereich Coden ist. Java ist eine Objektorientierte Sprache und wurde 1995 veröffentlicht. Es ist eine gute Einsteigersprache, da sie nicht zu komplex ist.
+
+<details>
+  <summary>Java   </summary>
+  
+
+![image](https://github.com/Sarius1/Informatikprojekt_Pong_Buhl_Elias_Mohammad_11pd/assets/111464150/3a5a17eb-b391-402f-9fea-f7fe0a5840ca)
+</details
+   Vor allem als Version von Greenfoot ist es die perfekte Sprache für Neulinge.
+
 
 
 <h2 id="kapitel6">6. Der Code</h2>

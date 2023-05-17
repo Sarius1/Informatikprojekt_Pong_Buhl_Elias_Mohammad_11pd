@@ -75,13 +75,21 @@ In unserem Projekt geht es darum, das Spiel Pong!, wie wir es alle kennen und li
 
 * Beim Code für den Ball war es wichtig zu beachten, dass er mit verschiedenen Dingen interagiert. Falls er die Wände der X-Achse berührt, muss er ganz normal abprallen, genauso wie mit den Paddles. Wenn er jedoch die Y-Wand berührt muss der Ball wieder in der mitte erscheinen und dem Spieler muss ein Punkt hinzuaddiert werden.
 
+<details>
+  <summary>Erster Pong-Automat   </summary>
+  
 
 ![image](https://user-images.githubusercontent.com/111464150/236029446-773c5a71-59d3-4b0d-b89e-ab131ce23187.png)
+</details>
 
 
  In dem Teil sieht man wie der Code auf das Aufprallen  mit den "Punktewänden" reagieren muss. Anstatt einfach nur einen Punkt zu geben, sind auch die Koordinaten angegeben, auf denen er danach erscheinen muss.
- 
+ <details>
+  <summary>Erster Pong-Automat   </summary>
+  
+
  ![image](https://user-images.githubusercontent.com/111464150/236030294-93d6792e-baaf-4c2d-b174-f07f38bdc5bb.png)
+</details>
 
 In dem Teil des Codes wird das aufkommen des Codes mit dem Ball beschrieben. Da dies viele Probleme und Bugs bereitstellte, hatten wir einen Delay eingefügt, der das ganze etwas verzögert.
  
@@ -89,14 +97,22 @@ In dem Teil des Codes wird das aufkommen des Codes mit dem Ball beschrieben. Da 
 
 
 * Als nächstes ist der Code für das Paddle dran. Der erste Teil ist hier eingeblendet
+ <details>
+  <summary>Erster Pong-Automat   </summary>
+  
 
 ![image](https://user-images.githubusercontent.com/111464150/236014743-79a79b9b-0feb-45cc-9a81-0f29080c02db.png)
+</details>
 
 
 Im ersten Teil werden einfache Größen wie höhe breite Farbe etc. bestimmt. Außerdem wird bereits festgelegt, wie man die Paddles bewegen soll, nämlich mit den up und down Tasten. Beim zweiten Teil geht es vor Allem darum, was die Folge vom drücken der Tasten ist. Dies bed3eutet also, dass wenn ich die up taste drücke, dass sich dementsprechend auch das rechte Paddle nach oben bewegt. Wenn ich die Downtaste drücke bewegt sich das Paddle nach unten. Beim betätigen der w-Taste bewegt sich das linke Paddle, und beim betätigen der s-Taste bewegt sich das linke Paddle nach unten.
 
+ <details>
+  <summary>Erster Pong-Automat   </summary>
+  
 
 ![image](https://user-images.githubusercontent.com/111464150/236015433-020fdeb2-630c-4f37-b4b4-bc50aeae9a8f.png)
+</details>
 
 
 Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y-Wert um zwei. Außerdem geben wir noch am Ende an, dass das Paddle nicht die Welt verlassen darf. Dadurch setzten wir ein Limit an Y-Werten, welches das Paddle nicht überschreiten darf. A>nsonsten würde das Paddle nämlich aus der Welt verschwinden Dadurch gibt es keine Ungleichheiten zum echten Spiel und es fühlt sich wie das echte Spiel an. Das Paddle hat einen besonderen Stellenwert im Spiel, da man dadurch den Ball als Spieler beeinflussen kann. Man beschützt sein Tor und geht gleichzeitig zu einem gegenschlag zum gegner über.
@@ -106,12 +122,20 @@ Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y
 
 
 Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen.
+ <details>
+  <summary>Erster Pong-Automat   </summary>
+  
 
 ![image](https://user-images.githubusercontent.com/111464150/236030831-0beaa8c3-f223-4e33-9ce8-34f911d63ac2.png)
+</details>
 
 Oben ist ein Bild eingeblendet, wie das Scoreboard im Spiel aussieht. Anhand des Scores kann man erkennen, welcher Spieler wieviele Punkte hat. Dadurch kann man sich als Spieler mit dem anderen zu vergleichen. Dadurch wird ein Wettbewerb mit seinen Gegner ermöglicht. Dieser Score geht bis zu einem Maximum von 5 Punkten.
+ <details>
+  <summary>Erster Pong-Automat   </summary>
+  
 
 ![image](https://user-images.githubusercontent.com/111464150/236031112-78a36b38-e020-4c0d-a1a0-b1d0be105d99.png)
+</details>
 
 Der erste Teil des Codes beschäftigt sich mit der Win-Message. Wenn ein Spieler mehr als 5 Punkte erreicht hat, erscheint eine Nachricht. Der mittlere Teil beschäftigt sich mit den Angaben wie Koordinaten des Scoreboards, Anzeige u. ä. . Im untersten Teil geht es um die Win_message, denn mit ihr ist das Spiel beendet. Dies beschreibt die Funktion Greenfoot_stop. Dadurch hört der Code auf. Wenn ein Spieler die 5 Punkte erreicht, erscheint die Message.
 
@@ -123,8 +147,12 @@ https://www.youtube.com/watch?v=3zmWr_F5f1k
 
 Ein weiterer Kritikpunkt ist aber auch die Einfachkeit des Spiels. Viele Spiele aus der heutigen Zeit haben anschauliche, fast reale Graphiken. Spieler können mit fast allem in der Welt interagieren und das Spiel wird zusätzlich durch Power-Ups,Level und andere Sachen interessant gemacht.
 
+ <details>
+  <summary>Erster Pong-Automat   </summary>
+  
 
 ![image](https://user-images.githubusercontent.com/111464150/236168380-8cf73373-8561-4d5e-8860-8f9cb4878265.png)
+</details>
 
 
 Auch kann man es als negativ Werten, dass Pong in der Zweidimensionalitt gefangen ist. Beim Release des Spiels war es noch was ganz normales, doch heute überwiegen dreidimensionale Spiele einfach den Markt. Allerdings muss man auch sagen, dass man Pong! nicht einfach in ein 3-D Spiel umändern kann, da es einfach von den Mechaniken her auf 2-D ausgelegt ist und es keinen Sinn macht diese Krampfhaft auf 3-D zu ändern. Es würde auch den eigentlichen Sinn des Spiels, und zwar des einfachen Zeitvertreibs zu Zweit entfliehen und sich in eine andere Richtung bewegen.

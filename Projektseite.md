@@ -63,7 +63,9 @@ Nach dem Programmieren in anderen Gruppenkonstallationen war uns schnell klar, d
 <h2 id="kapitel5">5. Vorstellung des Projekts</h2>
 Pong! ist ein Two-Player-Spiel, welches auf dem realen Spiel Tischtennis basiert. Es ist ein Spiel, welches keinem anderen ähnelt. Seiner Zeit voraus und heute ein Klassiker.
 Anbei haben wir euch ein Video verlinkt, wo man das spannende Gameplay von Pong! aus erster nähe betrachten kann.
+
 https://isurfstormarn.de/iserv/file/-/Groups/Klasse%2011p/Profil_Seminar_Informatik/Informatikprojekt
+
 In unserem Projekt geht es darum, das Spiel Pong!, wie wir es alle kennen und lieben in Greenfoot nachzuprogrammieren. Dazu haben wir die Javalastige-Sprache gewählt, da es eine fast universelle Sprache im Bereich Coden ist.
 
 
@@ -76,7 +78,7 @@ In unserem Projekt geht es darum, das Spiel Pong!, wie wir es alle kennen und li
 * Beim Code für den Ball war es wichtig zu beachten, dass er mit verschiedenen Dingen interagiert. Falls er die Wände der X-Achse berührt, muss er ganz normal abprallen, genauso wie mit den Paddles. Wenn er jedoch die Y-Wand berührt muss der Ball wieder in der mitte erscheinen und dem Spieler muss ein Punkt hinzuaddiert werden.
 
 <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Code   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/236029446-773c5a71-59d3-4b0d-b89e-ab131ce23187.png)
@@ -85,7 +87,7 @@ In unserem Projekt geht es darum, das Spiel Pong!, wie wir es alle kennen und li
 
  In dem Teil sieht man wie der Code auf das Aufprallen  mit den "Punktewänden" reagieren muss. Anstatt einfach nur einen Punkt zu geben, sind auch die Koordinaten angegeben, auf denen er danach erscheinen muss.
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Kollision  </summary>
   
 
  ![image](https://user-images.githubusercontent.com/111464150/236030294-93d6792e-baaf-4c2d-b174-f07f38bdc5bb.png)
@@ -98,7 +100,7 @@ In dem Teil des Codes wird das aufkommen des Codes mit dem Ball beschrieben. Da 
 
 * Als nächstes ist der Code für das Paddle dran. Der erste Teil ist hier eingeblendet
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Erster Teil Paddle-Code   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/236014743-79a79b9b-0feb-45cc-9a81-0f29080c02db.png)
@@ -108,7 +110,7 @@ In dem Teil des Codes wird das aufkommen des Codes mit dem Ball beschrieben. Da 
 Im ersten Teil werden einfache Größen wie höhe breite Farbe etc. bestimmt. Außerdem wird bereits festgelegt, wie man die Paddles bewegen soll, nämlich mit den up und down Tasten. Beim zweiten Teil geht es vor Allem darum, was die Folge vom drücken der Tasten ist. Dies bed3eutet also, dass wenn ich die up taste drücke, dass sich dementsprechend auch das rechte Paddle nach oben bewegt. Wenn ich die Downtaste drücke bewegt sich das Paddle nach unten. Beim betätigen der w-Taste bewegt sich das linke Paddle, und beim betätigen der s-Taste bewegt sich das linke Paddle nach unten.
 
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Paddle   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/236015433-020fdeb2-630c-4f37-b4b4-bc50aeae9a8f.png)
@@ -123,7 +125,7 @@ Sobald man beispielsweise die Down-Taste drückt, verändert das Paddle seinen Y
 
 Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der Score auf viel Variablen und Funktionen der anderen Classes zugreifen muss um den Score anzuzeigen.
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Score Code   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/236030831-0beaa8c3-f223-4e33-9ce8-34f911d63ac2.png)
@@ -131,7 +133,7 @@ Der Score war mit das schwierigste am Coden. Dies liegt nämlich daran, dass der
 
 Oben ist ein Bild eingeblendet, wie das Scoreboard im Spiel aussieht. Anhand des Scores kann man erkennen, welcher Spieler wieviele Punkte hat. Dadurch kann man sich als Spieler mit dem anderen zu vergleichen. Dadurch wird ein Wettbewerb mit seinen Gegner ermöglicht. Dieser Score geht bis zu einem Maximum von 5 Punkten.
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Score   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/236031112-78a36b38-e020-4c0d-a1a0-b1d0be105d99.png)
@@ -148,7 +150,7 @@ https://www.youtube.com/watch?v=3zmWr_F5f1k
 Ein weiterer Kritikpunkt ist aber auch die Einfachkeit des Spiels. Viele Spiele aus der heutigen Zeit haben anschauliche, fast reale Graphiken. Spieler können mit fast allem in der Welt interagieren und das Spiel wird zusätzlich durch Power-Ups,Level und andere Sachen interessant gemacht.
 
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Beispiel-Spiel  </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/236168380-8cf73373-8561-4d5e-8860-8f9cb4878265.png)

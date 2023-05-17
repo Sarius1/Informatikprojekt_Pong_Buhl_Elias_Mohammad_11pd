@@ -84,6 +84,7 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
    *  Bei der Lerneinheit DStructure of a class ging es zum einen darum Ordung zwischen den verschiedenen Klassen zu schaffen. Zum anderen ging es aber auch darum, die verschiedenen Klassen roichtig anzuordnen. Dies ist vor allem für größere Projekte mit vvieölen Klassen etc von Bedeutung.
 *   A First Look at Variables
     * Bei dieser Einheit ging es zum ertsen mal um Variablen. Dies wurde anhand einen Beispiels spielerisch gezeigt, was diese überhaupt sind. Aufgrund unserer letzten Projekte mit StarlogoTNG war da aber nicht viel neues dabei.
+ 
 # 06.03.2023
  Heute haben wir mit den verschiedenen Lerneinheiten fortgefahren. Diese waren sogar besonders von Bedeutung für unser Projekt Pong! welches wir im Anschluss der Einheiten coden werden.
 * Object Interaction (first encounter)
@@ -94,6 +95,7 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
     * Bei Bouncy coulored Balls ging es darum, Objekten verschiedenen Farben zuzuordnen. Außerdem hat man ein Gebiet festgelegt, welches die Bällee nicht überschreiten können und bei Berührung abprallen und die Farbe ändern   
 *   Bouncy Balls with Mouse Input
     * Diese Einheit baut auf der vorherigen auf. Es geht bei der Einheit "Bouncy Balls with Mouse Input" nämlich darum, wie man die Bouny Balls mit seiner Maus beeinflussen kann. Dadurch stört man sozusagen Ihr ungestörtes Feld mit einem Erreger, und zwar der Maus. Damit kann man unter anderem die Flugbahn der Bälle beeinflussen und deren Farbe ändern.
+ 
 # 09.03.2023
 *  Class Methods vs Instance Methods
    *Text
@@ -101,6 +103,7 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
    * Diese Einheit war auch sehr wichtig für uns. Hier geht es nämlich darum, wie man richtig mit Fehlern umgeht. Wir hatten im Verlauf unseren Projekt viele Fehler. Viele Bugs konnten dank dieser Lerneinheit gelöst werden. So kann man unter anderem nicht relevanten Code einklammern. So kann man sich auf den relevanten Code, welcher problematisiert wird, spezialisieren.
 * How to display text
   * hier geht es darum, wie man Text, oder Textblöcke im Programm anzeigen kann. Dies ist auch sehr relevant für uns, da wir einplanen, am Ende des Spiels eine Win-Message einzufügen. Dafür ist es natürlich unbedint notwendig zu Wissen, wie man Textblöcke in Greenfoot anzeigen lassen kann.
+ 
  # 13.03.2023
 * Paddles movement
   * heute ging es richtig mit dem Coden unseres Programms los. Angefangen haben wir hierfür mit den Paddles. Sie haben einen hohen Stellenwert, da sie unbedint relevant für das Spiel sind. Der unten beigefügte Screenshot ist jedoch aus der neuen version. Am anfang haten wir nur Programmiert, dass sich die Paddles nach oben und unten bewegen konnten. Auch haben wir Grenzen eingefügt, welche sie nicht überschreiten können.

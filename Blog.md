@@ -26,7 +26,14 @@ Heute haben wir die Einführung in Greenfoot mit Tutorials gestartet. Dazu haben
 
 Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  finally some code
-   *  Heute ging es endlich mit dem Coden los. Zuerst haben wir ein Szenario erstellt und dieses in verschiedene Klassen unterteilt. ![image](https://user-images.githubusercontent.com/111464150/230055811-d8db0b0d-7aba-4363-80b1-53399abb2b79.png)  Im noch relativ simplen Code haben wir ein Void erstellt, wo eine Schildkröte platziert wurde. Des weiteren haben wir der Schildkröte eine Bewegung zugewiesen wie move(1). Wenn man noch turn(1) hinzufügt bewegt sich die Schildkröte im Kreis. Jedoch muss man die Schildkröten noch manuell hinzufügen und erscheinen nicht automatisch
+   *  Heute ging es endlich mit dem Coden los. Zuerst haben wir ein Szenario erstellt und dieses in verschiedene Klassen unterteilt.
+  <details>
+  <summary>Erster Pong-Automat   </summary>
+  
+
+![image](https://user-images.githubusercontent.com/111464150/230055811-d8db0b0d-7aba-4363-80b1-53399abb2b79.png)
+</details>
+Im noch relativ simplen Code haben wir ein Void erstellt, wo eine Schildkröte platziert wurde. Des weiteren haben wir der Schildkröte eine Bewegung zugewiesen wie move(1). Wenn man noch turn(1) hinzufügt bewegt sich die Schildkröte im Kreis. Jedoch muss man die Schildkröten noch manuell hinzufügen und erscheinen nicht automatisch
 *  if statements
    *  Um in das Thema der Bedinungen einzuleiten wurde das Problem mit der worldEdge gezeigt. Wenn sich eine Schildkröte nämlich dem Ende der Welt nähert stoppt diese einfach nur. Dies will man ändern, sodass unter der Bedinung, dass die Schildkröte die Weltgrenze berührt ein Ereignis eintritt.![image](https://user-images.githubusercontent.com/111464150/230057899-cf303028-b0dc-450a-b0e2-2ef2c81feacf.png)
 So hat man bei if-statements immer einer condition, auf die ein statement immer antwortet, falls diese erfüllt ist. Wir haben programmiert, dass wenn sich eine Schildkröte der worldedge nähert, diese sich um eine bestimmte Gradzahl dreht und so nicht stoppt.

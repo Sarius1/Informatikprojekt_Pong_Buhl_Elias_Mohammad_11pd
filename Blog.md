@@ -61,7 +61,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *   Snakes on a Plane!
     * In dieser Lektion haben wir eine neue Klasse, nämlich die Schlangen (snakes) hinzugefügt. Diese sollten die Schildkröte jagen und aufessen. Dazu hat man einfach den Code der Schildkröte genommen, welche ein mehr oder weniger random-Verhalten haben und Salat essen kopiert, und in das der Schlange eingefügt. Da wir jedoch wollen, dass die Schlange die Schildkröte isst, mussten wir noch ändern, dass sie bei Kontakt keinen Salat, sondern Schildkröten isst.
  
-    *    <details>
+ <details>
   <summary>Erster Pong-Automat   </summary>
   
 
@@ -73,7 +73,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  Make it Your Own (changing images)
 *  Fun with Sound
    *  Diese Einheit beschäftigt sich, wie der Titel bereits sagt mit dem Einfügen von Sounds. Dies ist auch ziemlich einfach, da man lediglich nach der if-Funktion und der Folge einfach einen Sound aus seinen Files hinzufügen muss. Wir haben dazu einfach den Sound von Code of Joy gedownloaded, um es möglich autenthisch zu halten. letztendlich sollte der Code ungefähr wie folgt aussehen:
-     *    <details>
+ <details>
   <summary>Erster Pong-Automat   </summary>
   
 
@@ -104,7 +104,7 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
  # 13.03.2023
 * Paddles movement
   * heute ging es richtig mit dem Coden unseres Programms los. Angefangen haben wir hierfür mit den Paddles. Sie haben einen hohen Stellenwert, da sie unbedint relevant für das Spiel sind. Der unten beigefügte Screenshot ist jedoch aus der neuen version. Am anfang haten wir nur Programmiert, dass sich die Paddles nach oben und unten bewegen konnten. Auch haben wir Grenzen eingefügt, welche sie nicht überschreiten können.
-      *    <details>
+<details>
   <summary>Erster Pong-Automat   </summary>
   
 
@@ -120,13 +120,13 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
 * Coden von Pong 
 *  Ball movement
    * nachdem das Ball-Movement fertig war, ging es nun darum, den Ball zu programmieren. Der Ball prallt bereits von den Paddles ab, muss nun aber noch von den Wänden abprallen. So haben wir zuerst die größe des Balls bestimmt und dann das abprallen des Balles gecodet. Außerdem war es wichtig, zu programmieren, dass wenn das paddle es nicht schafft den ball abzufangen, und der Ball die Y-Achse berührt eine neue Variabel Punkte um einen steigt. Dies ist immerhin das Ziel des Spiels.
-       *    <details>
+ <details>
   <summary>Erster Pong-Automat   </summary>
   
 
  ![image](https://user-images.githubusercontent.com/111464150/235779188-2345c51a-00bd-4d72-a11c-cc8de1db8e1f.png)
 </details>
-        *    <details>
+<details>
   <summary>Erster Pong-Automat   </summary>
   
 
@@ -144,7 +144,7 @@ Heute haben wir mit dem Coden des Spiels fortgefahren, und zwar mit dem Scoreboa
 # 05.04.2023
 Heute hatten wir den Seminartag, hatten also den ganzen Tag Zeit, an unserem Projekt zu arbeiten. Da wir jedoch schon weit fortgeschritten waren, hatten wir nicht zu viel zutun. Eine Herausforderung war jedoch das Scoreboard. So meinte bereits der ursprüngliche Coder von Pong!, dass das Scoreboard das komplizierteste am ganzen Projekt war. Wir konnten ihm da nur zustimmen, da wir dafür auch Herr Buhls Hilfe in Anspruch nehmen mussten.
 Dies hatte jedoch irgenwann geklappt, wo wir nur noch mit Herr Buhl im Computerraum waren und alle bereits nachhause gegangen sind. jedoch waren wir mit dem Spiel an sich fertig. Anbei ein Bild, wie es am Ende aussieht.
-         *    <details>
+ <details>
   <summary>Erster Pong-Automat   </summary>
   
 

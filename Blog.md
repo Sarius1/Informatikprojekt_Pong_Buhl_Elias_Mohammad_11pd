@@ -28,7 +28,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  finally some code
    *  Heute ging es endlich mit dem Coden los. Zuerst haben wir ein Szenario erstellt und dieses in verschiedene Klassen unterteilt.
   <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Verschiedene Klassen   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/230055811-d8db0b0d-7aba-4363-80b1-53399abb2b79.png)
@@ -37,7 +37,7 @@ Im noch relativ simplen Code haben wir ein Void erstellt, wo eine Schildkröte p
 *  if statements
    *  Um in das Thema der Bedinungen einzuleiten wurde das Problem mit der worldEdge gezeigt. Wenn sich eine Schildkröte nämlich dem Ende der Welt nähert stoppt diese einfach nur. Dies will man ändern, sodass unter der Bedinung, dass die Schildkröte die Weltgrenze berührt ein Ereignis eintritt.
    *    <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Kollision Wand   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/230057899-cf303028-b0dc-450a-b0e2-2ef2c81feacf.png)
@@ -62,7 +62,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
     * In dieser Lektion haben wir eine neue Klasse, nämlich die Schlangen (snakes) hinzugefügt. Diese sollten die Schildkröte jagen und aufessen. Dazu hat man einfach den Code der Schildkröte genommen, welche ein mehr oder weniger random-Verhalten haben und Salat essen kopiert, und in das der Schlange eingefügt. Da wir jedoch wollen, dass die Schlange die Schildkröte isst, mussten wir noch ändern, dass sie bei Kontakt keinen Salat, sondern Schildkröten isst.
  
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Code Schlange   </summary>
   
 
  ![image](https://user-images.githubusercontent.com/111464150/235751228-6b792006-7348-40c4-b683-b13e8e2e0709.png)
@@ -74,7 +74,7 @@ Heute haben wir mit dem Bearbeiten der Code of Joy Einheiten fortgefahren.
 *  Fun with Sound
    *  Diese Einheit beschäftigt sich, wie der Titel bereits sagt mit dem Einfügen von Sounds. Dies ist auch ziemlich einfach, da man lediglich nach der if-Funktion und der Folge einfach einen Sound aus seinen Files hinzufügen muss. Wir haben dazu einfach den Sound von Code of Joy gedownloaded, um es möglich autenthisch zu halten. letztendlich sollte der Code ungefähr wie folgt aussehen:
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Sound-Code   </summary>
   
 
  ![image](https://user-images.githubusercontent.com/111464150/235773201-a9a07354-af19-414e-9310-de9e60c4fe02.png)
@@ -105,7 +105,7 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
 * Paddles movement
   * heute ging es richtig mit dem Coden unseres Programms los. Angefangen haben wir hierfür mit den Paddles. Sie haben einen hohen Stellenwert, da sie unbedint relevant für das Spiel sind. Der unten beigefügte Screenshot ist jedoch aus der neuen version. Am anfang haten wir nur Programmiert, dass sich die Paddles nach oben und unten bewegen konnten. Auch haben wir Grenzen eingefügt, welche sie nicht überschreiten können.
 <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Code Paddles   </summary>
   
 
  ![image](https://user-images.githubusercontent.com/111464150/235778905-94413617-e939-4233-933f-8e104f129266.png)
@@ -121,13 +121,13 @@ Dabei wird der Sound als String in der JavaSprache verwendet. So haben wir Sound
 *  Ball movement
    * nachdem das Ball-Movement fertig war, ging es nun darum, den Ball zu programmieren. Der Ball prallt bereits von den Paddles ab, muss nun aber noch von den Wänden abprallen. So haben wir zuerst die größe des Balls bestimmt und dann das abprallen des Balles gecodet. Außerdem war es wichtig, zu programmieren, dass wenn das paddle es nicht schafft den ball abzufangen, und der Ball die Y-Achse berührt eine neue Variabel Punkte um einen steigt. Dies ist immerhin das Ziel des Spiels.
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Ball-Code 1   </summary>
   
 
  ![image](https://user-images.githubusercontent.com/111464150/235779188-2345c51a-00bd-4d72-a11c-cc8de1db8e1f.png)
 </details>
 <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Ball-Code 2   </summary>
   
 
 ![image](https://user-images.githubusercontent.com/111464150/235779257-facdfed3-b9a3-49fe-a976-8d858e4658ac.png)
@@ -145,7 +145,7 @@ Heute haben wir mit dem Coden des Spiels fortgefahren, und zwar mit dem Scoreboa
 Heute hatten wir den Seminartag, hatten also den ganzen Tag Zeit, an unserem Projekt zu arbeiten. Da wir jedoch schon weit fortgeschritten waren, hatten wir nicht zu viel zutun. Eine Herausforderung war jedoch das Scoreboard. So meinte bereits der ursprüngliche Coder von Pong!, dass das Scoreboard das komplizierteste am ganzen Projekt war. Wir konnten ihm da nur zustimmen, da wir dafür auch Herr Buhls Hilfe in Anspruch nehmen mussten.
 Dies hatte jedoch irgenwann geklappt, wo wir nur noch mit Herr Buhl im Computerraum waren und alle bereits nachhause gegangen sind. jedoch waren wir mit dem Spiel an sich fertig. Anbei ein Bild, wie es am Ende aussieht.
  <details>
-  <summary>Erster Pong-Automat   </summary>
+  <summary>Scoreboard   </summary>
   
 
  ![image](https://user-images.githubusercontent.com/111464150/235778562-e7b31713-2846-4144-bb86-a8fb1d68f951.png)
